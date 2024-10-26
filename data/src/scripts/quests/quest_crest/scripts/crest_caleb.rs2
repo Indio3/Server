@@ -1,0 +1,12 @@
+[opnpc1,crest_caleb]
+switch_int(%crest_progress) {
+    case ^crest_not_started :
+        ~chatnpc("<p,quiz>Who are you? What are you after?");
+        def_int $op = ~p_choice2("Nothing, I will be on my way.", 1, "I see you are a chef, will you cook me anything?", 2);
+        if($op = 1) {
+            ~chatplayer("<p,neutral>Nothing, I will be on my way.");
+            return;
+        }
+        ~chatplayer("<p,quiz>I see you are a chef... Could you cook me something?");
+        ~chatnpc("<p,neutral>I would, but I am very busy. I am trying to increase my reknown as one of the worlds' leading chefs by preparing a special and unique fish salad.");
+}
