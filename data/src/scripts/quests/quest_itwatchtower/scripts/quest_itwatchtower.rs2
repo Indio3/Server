@@ -4,8 +4,8 @@ if(stat(agility) < 18) {
     return;
 }
 mes("You climb up the wall...");
-~agility_climb_up(310, 1_39_48_52_45);
 mes("...and squeeze in through the window.");
+~agility_climb_up(310, 1_39_48_52_45);
 
 [oploc1,loc_2798]
 if(%itwatchtower_progress = ^itwatchtower_not_started) {
@@ -15,7 +15,18 @@ if(%itwatchtower_progress = ^itwatchtower_not_started) {
 }
 
 [oploc1,loc_2799]
-@itwatchtower_search_bush(fingernails, "<p,quiz>What's this? Disgusting! Some fingernails. They may be a clue though... I'd better take them.");
+if(%itwatchtower_progress = ^itwatchtower_not_started) {
+    say("I am not sure why I am searching this bush.");
+} else if(%itwatchtower_progress = ^itwatchtower_started) {
+    if(inv_total(inv, fingernails) > 0) {
+        ~chatplayer("<p,quiz>I have already searched this place.");
+        return;
+    }
+    inv_add(inv, fingernails, 1);
+    ~chatplayer("<p,quiz>What's this? Disgusting! Some fingernails. They may be a clue though... I'd better take them.");
+} else {
+    ~chatplayer("<p,happy>I have already searched this place.");
+}
 
 [oploc1,loc_2800]
 @itwatchtower_search_bush(damaged_dagger, "<p,happy>Aha a dagger!|I wonder if this is evidence...");
@@ -58,28 +69,15 @@ if(%itwatchtower_progress = ^itwatchtower_not_started) {
     @climb_ladder(movecoord(coord, 0, 1, 0), true);
 }
 
-[oploc1,loc_2805]
-@no_map_message;
-p_teleport(0_39_47_27_62);
+[oploc1,loc_2805] @tp_no_map_message(0_39_47_27_62);
+[oploc1,loc_2806] @tp_no_map_message(0_39_47_44_47);
+[oploc1,loc_2807] @tp_no_map_message(0_39_47_57_47);
+[oploc1,loc_2808] @tp_no_map_message(0_39_47_56_26);
+[oploc1,loc_2809] @tp_no_map_message(0_40_47_3_16);
 
-[oploc1,loc_2806]
-@no_map_message;
-p_teleport(0_39_47_44_47);
-
-[oploc1,loc_2807]
-@no_map_message;
-p_teleport(0_39_47_57_47);
-
-[oploc1,loc_2808]
-@no_map_message;
-p_teleport(0_39_47_56_26);
-
-[oploc1,loc_2809]
-@no_map_message;
-p_teleport(0_40_47_3_16);
-
-[label,no_map_message]
+[label,tp_no_map_message](coord $coord)
 mes("There's no way I can find my way through without a map of some kind.");
+p_teleport($coord);
 
 [oploc1,loc_2810]
 p_teleport(0_39_47_27_62);
