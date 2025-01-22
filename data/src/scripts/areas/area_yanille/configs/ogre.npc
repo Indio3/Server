@@ -82,7 +82,7 @@ param=defend_sound,imp_hit
 param=death_sound,imp_death
 // https://raw.githubusercontent.com/Joshua-F/osrs-dumps/refs/heads/master/config/dump.npc npc_2846
 
-[npc_852]
+[ogre_chieftan]
 name=Ogre chieftain
 desc=Tough looking.
 size=2
@@ -289,7 +289,7 @@ param=death_sound,giant_death
 param=death_drop,big_bones
 // https://raw.githubusercontent.com/Joshua-F/osrs-dumps/refs/heads/master/config/dump.npc npc_4370
 
-[npc_860]
+[ogre_guard_battlements]
 name=Ogre guard
 desc=An ogre that guards.
 size=2
@@ -477,7 +477,7 @@ head1=model_146_npc_head
 param=death_anim,skavid_death
 param=death_sound,imp_death
 
-[npc_870]
+[enclave_guard]
 name=Enclave guard
 desc=Big and ugly looking.
 size=2
