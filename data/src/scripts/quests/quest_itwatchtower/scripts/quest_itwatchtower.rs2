@@ -29,61 +29,36 @@ if(%itwatchtower_progress = ^itwatchtower_not_started) {
 }
 
 [oploc1,loc_2800]
-if(%itwatchtower_progress = ^itwatchtower_not_started) {
-    ~chatplayer("<p,happy>I am not sure why I am searching this bush.");
-} if(%itwatchtower_progress = ^itwatchtower_started) {
-    if(inv_total(inv, damaged_dagger) > 0) {
-        ~chatplayer("<p,quiz>I have already searched this place.");
-        return;
-    }
-    inv_add(inv, damaged_dagger, 1);
-    ~chatplayer("<p,happy>Aha a dagger!|I wonder if this is evidence...");
-} else {
-    ~chatplayer("<p,happy>Hmmm, nothing here.");
-}
+@itwatchtower_search_bush(damaged_dagger, "<p,happy>Aha a dagger!|I wonder if this is evidence...");
 
 [oploc1,loc_2801]
-if(%itwatchtower_progress = ^itwatchtower_not_started) {
-    ~chatplayer("<p,happy>I am not sure why I am searching this bush.");
-} if(%itwatchtower_progress = ^itwatchtower_started) {
-    if(inv_total(inv, tattered_eye_patch) > 0) {
-        ~chatplayer("<p,quiz>I have already searched this place.");
-        return;
-    }
-    inv_add(inv, tattered_eye_patch, 1);
-    ~chatplayer("<p,happy>I've found an eye patch; I had better show this to the Watchtower Wizard.");
-} else {
-    ~chatplayer("<p,happy>Hmmm, nothing here.");
-}
+@itwatchtower_search_bush(tattered_eye_patch, "<p,happy>I've found an eye patch; I had better show this to the Watchtower Wizard.");
 
 [oploc1,loc_2802]
-if(%itwatchtower_progress = ^itwatchtower_not_started) {
-    ~chatplayer("<p,happy>I am not sure why I am searching this bush.");
-} if(%itwatchtower_progress = ^itwatchtower_started) {
-    if(inv_total(inv, old_robe) > 0) {
-        ~chatplayer("<p,quiz>I have already searched this place.");
-        return;
-    }
-    inv_add(inv, old_robe, 1);
-    ~chatplayer("<p,happy>Aha! A robe.|This could be a clue...");
-} else {
-    ~chatplayer("<p,happy>Hmmm, nothing here.");
-}
+@itwatchtower_search_bush(old_robe, "<p,happy>Aha! A robe.|This could be a clue...");
 
 [oploc1,loc_2803]
-if(%itwatchtower_progress = ^itwatchtower_not_started) {
-    say("I am not sure why I am searching this bush.");
-} else if(%itwatchtower_progress = ^itwatchtower_started) {
-    if(inv_total(inv, unusual_armour) > 0) { // no bank check for any of them
+@itwatchtower_search_bush(unusual_armour, "<p,happy>Here's some armour; it could be evidence...");
+
+[label,itwatchtower_search_bush](namedobj $obj, string $str0) {
+    if(%itwatchtower_progress = ^itwatchtower_not_started) {
+        ~chatplayer("<p,happy>I am not sure why I am searching this bush.");
+        return;
+    }
+
+    if (%itwatchtower_progress > ^itwatchtower_started) {
+        ~chatplayer("<p,happy>Hmmm, nothing here.");
+        return;
+    }
+
+    if (inv_total(inv, $obj) > 0) {
         ~chatplayer("<p,quiz>I have already searched this place.");
         return;
     }
-    inv_add(inv, unusual_armour, 1);
-    ~chatplayer("<p,happy>Here's some armour; it could be evidence...");
-} else {
-    ~chatplayer("<p,happy>Hmmm, nothing here.");
-}
 
+    inv_add(inv, $obj, 1);
+    ~chatplayer($str0);
+}
 
 [oploc1,loc_2833]
 if(%itwatchtower_progress = ^itwatchtower_not_started) {
@@ -94,25 +69,15 @@ if(%itwatchtower_progress = ^itwatchtower_not_started) {
     @climb_ladder(movecoord(coord, 0, 1, 0), true);
 }
 
-[oploc1,loc_2805]
-mes("There's no way I can find my way through without a map of some kind.");
-p_teleport(0_39_47_27_62);
+[oploc1,loc_2805] @tp_no_map_message(0_39_47_27_62);
+[oploc1,loc_2806] @tp_no_map_message(0_39_47_44_47);
+[oploc1,loc_2807] @tp_no_map_message(0_39_47_57_47);
+[oploc1,loc_2808] @tp_no_map_message(0_39_47_56_26);
+[oploc1,loc_2809] @tp_no_map_message(0_40_47_3_16);
 
-[oploc1,loc_2806]
+[label,tp_no_map_message](coord $coord)
 mes("There's no way I can find my way through without a map of some kind.");
-p_teleport(0_39_47_44_47);
-
-[oploc1,loc_2807]
-mes("There's no way I can find my way through without a map of some kind.");
-p_teleport(0_39_47_57_47);
-
-[oploc1,loc_2808]
-mes("There's no way I can find my way through without a map of some kind.");
-p_teleport(0_39_47_56_26);
-
-[oploc1,loc_2809]
-mes("There's no way I can find my way through without a map of some kind.");
-p_teleport(0_40_47_3_16);
+p_teleport($coord);
 
 [oploc1,loc_2810]
 p_teleport(0_39_47_27_62);
