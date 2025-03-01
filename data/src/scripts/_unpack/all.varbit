@@ -1,0 +1,3134 @@
+[varbit_0]
+//unsupported: basevar=varp_318
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_1]
+//unsupported: basevar=varp_318
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_2]
+//unsupported: basevar=varp_318
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_3]
+//unsupported: basevar=varp_318
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_4]
+//unsupported: basevar=varp_318
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_5]
+//unsupported: basevar=varp_318
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_6]
+//unsupported: basevar=varp_336
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_7]
+//unsupported: basevar=varp_336
+//unsupported: startbit=1
+//unsupported: endbit=3
+
+[varbit_8]
+//unsupported: basevar=varp_336
+//unsupported: startbit=4
+//unsupported: endbit=7
+
+[varbit_9]
+//unsupported: basevar=varp_336
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_10]
+//unsupported: basevar=varp_340
+//unsupported: startbit=9
+//unsupported: endbit=13
+
+[varbit_11]
+//unsupported: basevar=varp_340
+//unsupported: startbit=14
+//unsupported: endbit=27
+
+[varbit_12]
+//unsupported: basevar=varp_350
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_13]
+//unsupported: basevar=varp_350
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_14]
+//unsupported: basevar=varp_350
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_15]
+//unsupported: basevar=varp_350
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_16]
+//unsupported: basevar=varp_350
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_17]
+//unsupported: basevar=varp_350
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_18]
+//unsupported: basevar=varp_350
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_19]
+//unsupported: basevar=varp_350
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_20]
+//unsupported: basevar=varp_350
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_21]
+//unsupported: basevar=varp_350
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_22]
+//unsupported: basevar=varp_350
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_23]
+//unsupported: basevar=varp_350
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_24]
+//unsupported: basevar=varp_350
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_25]
+//unsupported: basevar=varp_350
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_26]
+//unsupported: basevar=varp_350
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_27]
+//unsupported: basevar=varp_350
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_28]
+//unsupported: basevar=varp_350
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_29]
+//unsupported: basevar=varp_350
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_30]
+//unsupported: basevar=varp_350
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_31]
+//unsupported: basevar=varp_350
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_32]
+//unsupported: basevar=varp_350
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_33]
+//unsupported: basevar=varp_350
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_34]
+//unsupported: basevar=varp_351
+//unsupported: startbit=0
+//unsupported: endbit=10
+
+[varbit_35]
+//unsupported: basevar=varp_351
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_36]
+//unsupported: basevar=varp_351
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_37]
+//unsupported: basevar=varp_351
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_38]
+//unsupported: basevar=varp_351
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_39]
+//unsupported: basevar=varp_351
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_40]
+//unsupported: basevar=varp_351
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_41]
+//unsupported: basevar=varp_351
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_42]
+//unsupported: basevar=varp_351
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_43]
+//unsupported: basevar=varp_351
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_44]
+//unsupported: basevar=varp_351
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_45]
+//unsupported: basevar=varp_351
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_46]
+//unsupported: basevar=varp_351
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_47]
+//unsupported: basevar=varp_351
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_48]
+//unsupported: basevar=varp_351
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_49]
+//unsupported: basevar=varp_355
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_50]
+//unsupported: basevar=varp_355
+//unsupported: startbit=2
+//unsupported: endbit=5
+
+[varbit_51]
+//unsupported: basevar=varp_355
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_52]
+//unsupported: basevar=varp_355
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_53]
+//unsupported: basevar=varp_355
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_54]
+//unsupported: basevar=varp_355
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_55]
+//unsupported: basevar=varp_355
+//unsupported: startbit=10
+//unsupported: endbit=16
+
+[varbit_56]
+//unsupported: basevar=varp_355
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_57]
+//unsupported: basevar=varp_355
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_58]
+//unsupported: basevar=varp_355
+//unsupported: startbit=19
+//unsupported: endbit=25
+
+[varbit_59]
+//unsupported: basevar=varp_355
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_60]
+//unsupported: basevar=varp_355
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_61]
+//unsupported: basevar=varp_355
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_62]
+//unsupported: basevar=varp_355
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_63]
+//unsupported: basevar=varp_355
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_64]
+//unsupported: basevar=varp_356
+//unsupported: startbit=0
+//unsupported: endbit=5
+
+[varbit_65]
+//unsupported: basevar=varp_356
+//unsupported: startbit=6
+//unsupported: endbit=8
+
+[varbit_66]
+//unsupported: basevar=varp_356
+//unsupported: startbit=9
+//unsupported: endbit=11
+
+[varbit_67]
+//unsupported: basevar=varp_356
+//unsupported: startbit=12
+//unsupported: endbit=14
+
+[varbit_68]
+//unsupported: basevar=varp_356
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_69]
+//unsupported: basevar=varp_357
+//unsupported: startbit=0
+//unsupported: endbit=15
+
+[varbit_70]
+//unsupported: basevar=varp_357
+//unsupported: startbit=16
+//unsupported: endbit=31
+
+[varbit_71]
+//unsupported: basevar=varp_361
+//unsupported: startbit=0
+//unsupported: endbit=17
+
+[varbit_72]
+//unsupported: basevar=varp_361
+//unsupported: startbit=18
+//unsupported: endbit=24
+
+[varbit_73]
+//unsupported: basevar=varp_361
+//unsupported: startbit=25
+//unsupported: endbit=31
+
+[varbit_74]
+//unsupported: basevar=varp_362
+//unsupported: startbit=0
+//unsupported: endbit=26
+
+[varbit_75]
+//unsupported: basevar=varp_362
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_76]
+//unsupported: basevar=varp_362
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_77]
+//unsupported: basevar=varp_362
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_78]
+//unsupported: basevar=varp_362
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_79]
+//unsupported: basevar=varp_363
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_80]
+//unsupported: basevar=varp_363
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_81]
+//unsupported: basevar=varp_363
+//unsupported: startbit=0
+//unsupported: endbit=3
+
+[varbit_82]
+//unsupported: basevar=varp_363
+//unsupported: startbit=4
+//unsupported: endbit=7
+
+[varbit_83]
+//unsupported: basevar=varp_363
+//unsupported: startbit=8
+//unsupported: endbit=11
+
+[varbit_84]
+//unsupported: basevar=varp_363
+//unsupported: startbit=12
+//unsupported: endbit=15
+
+[varbit_85]
+//unsupported: basevar=varp_363
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_86]
+//unsupported: basevar=varp_363
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_87]
+//unsupported: basevar=varp_363
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_88]
+//unsupported: basevar=varp_363
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_89]
+//unsupported: basevar=varp_363
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_90]
+//unsupported: basevar=varp_363
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_91]
+//unsupported: basevar=varp_363
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_92]
+//unsupported: basevar=varp_363
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_93]
+//unsupported: basevar=varp_363
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_94]
+//unsupported: basevar=varp_363
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_95]
+//unsupported: basevar=varp_363
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_96]
+//unsupported: basevar=varp_363
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_97]
+//unsupported: basevar=varp_363
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_98]
+//unsupported: basevar=varp_363
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_99]
+//unsupported: basevar=varp_371
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_100]
+//unsupported: basevar=varp_371
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_101]
+//unsupported: basevar=varp_371
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_102]
+//unsupported: basevar=varp_371
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_103]
+//unsupported: basevar=varp_371
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_104]
+//unsupported: basevar=varp_371
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_105]
+//unsupported: basevar=varp_371
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_106]
+//unsupported: basevar=varp_371
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_107]
+//unsupported: basevar=varp_371
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_108]
+//unsupported: basevar=varp_371
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_109]
+//unsupported: basevar=varp_371
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_110]
+//unsupported: basevar=varp_371
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_111]
+//unsupported: basevar=varp_371
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_112]
+//unsupported: basevar=varp_371
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_113]
+//unsupported: basevar=varp_371
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_114]
+//unsupported: basevar=varp_371
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_115]
+//unsupported: basevar=varp_371
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_116]
+//unsupported: basevar=varp_371
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_117]
+//unsupported: basevar=varp_373
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_118]
+//unsupported: basevar=varp_373
+//unsupported: startbit=2
+//unsupported: endbit=4
+
+[varbit_119]
+//unsupported: basevar=varp_373
+//unsupported: startbit=5
+//unsupported: endbit=8
+
+[varbit_120]
+//unsupported: basevar=varp_373
+//unsupported: startbit=9
+//unsupported: endbit=10
+
+[varbit_121]
+//unsupported: basevar=varp_372
+//unsupported: startbit=0
+//unsupported: endbit=3
+
+[varbit_122]
+//unsupported: basevar=varp_372
+//unsupported: startbit=4
+//unsupported: endbit=6
+
+[varbit_123]
+//unsupported: basevar=varp_372
+//unsupported: startbit=7
+//unsupported: endbit=10
+
+[varbit_124]
+//unsupported: basevar=varp_372
+//unsupported: startbit=11
+//unsupported: endbit=12
+
+[varbit_125]
+//unsupported: basevar=varp_372
+//unsupported: startbit=13
+//unsupported: endbit=15
+
+[varbit_126]
+//unsupported: basevar=varp_372
+//unsupported: startbit=16
+//unsupported: endbit=19
+
+[varbit_127]
+//unsupported: basevar=varp_372
+//unsupported: startbit=20
+//unsupported: endbit=23
+
+[varbit_128]
+//unsupported: basevar=varp_372
+//unsupported: startbit=24
+//unsupported: endbit=25
+
+[varbit_129]
+//unsupported: basevar=varp_372
+//unsupported: startbit=26
+//unsupported: endbit=27
+
+[varbit_130]
+//unsupported: basevar=varp_374
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_131]
+//unsupported: basevar=varp_374
+//unsupported: startbit=2
+//unsupported: endbit=9
+
+[varbit_132]
+//unsupported: basevar=varp_374
+//unsupported: startbit=10
+//unsupported: endbit=11
+
+[varbit_133]
+//unsupported: basevar=varp_374
+//unsupported: startbit=12
+//unsupported: endbit=16
+
+[varbit_134]
+//unsupported: basevar=varp_374
+//unsupported: startbit=17
+//unsupported: endbit=20
+
+[varbit_135]
+//unsupported: basevar=varp_362
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_136]
+//unsupported: basevar=varp_378
+//unsupported: startbit=0
+//unsupported: endbit=6
+
+[varbit_137]
+//unsupported: basevar=varp_378
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_138]
+//unsupported: basevar=varp_378
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_139]
+//unsupported: basevar=varp_378
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_140]
+//unsupported: basevar=varp_378
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_141]
+//unsupported: basevar=varp_378
+//unsupported: startbit=11
+//unsupported: endbit=15
+
+[varbit_142]
+//unsupported: basevar=varp_378
+//unsupported: startbit=16
+//unsupported: endbit=20
+
+[varbit_143]
+//unsupported: basevar=varp_378
+//unsupported: startbit=21
+//unsupported: endbit=22
+
+[varbit_144]
+//unsupported: basevar=varp_378
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_145]
+//unsupported: basevar=varp_378
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_146]
+//unsupported: basevar=varp_377
+//unsupported: startbit=0
+//unsupported: endbit=6
+
+[varbit_147]
+//unsupported: basevar=varp_377
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_148]
+//unsupported: basevar=varp_377
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_149]
+//unsupported: basevar=varp_377
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_150]
+//unsupported: basevar=varp_377
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_151]
+//unsupported: basevar=varp_377
+//unsupported: startbit=11
+//unsupported: endbit=15
+
+[varbit_152]
+//unsupported: basevar=varp_377
+//unsupported: startbit=16
+//unsupported: endbit=20
+
+[varbit_153]
+//unsupported: basevar=varp_377
+//unsupported: startbit=21
+//unsupported: endbit=22
+
+[varbit_154]
+//unsupported: basevar=varp_377
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_155]
+//unsupported: basevar=varp_377
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_156]
+//unsupported: basevar=varp_379
+//unsupported: startbit=0
+//unsupported: endbit=4
+
+[varbit_157]
+//unsupported: basevar=varp_379
+//unsupported: startbit=5
+//unsupported: endbit=9
+
+[varbit_158]
+//unsupported: basevar=varp_174
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_159]
+//unsupported: basevar=varp_174
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_160]
+//unsupported: basevar=varp_174
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_161]
+//unsupported: basevar=varp_174
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_162]
+//unsupported: basevar=varp_174
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_163]
+//unsupported: basevar=varp_174
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_164]
+//unsupported: basevar=varp_174
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_165]
+//unsupported: basevar=varp_174
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_166]
+//unsupported: basevar=varp_174
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_167]
+//unsupported: basevar=varp_174
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_168]
+//unsupported: basevar=varp_174
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_169]
+//unsupported: basevar=varp_174
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_170]
+//unsupported: basevar=varp_174
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_171]
+//unsupported: basevar=varp_379
+//unsupported: startbit=10
+//unsupported: endbit=20
+
+[varbit_172]
+//unsupported: basevar=varp_379
+//unsupported: startbit=21
+//unsupported: endbit=31
+
+[varbit_173]
+//unsupported: basevar=varp_388
+//unsupported: startbit=6
+//unsupported: endbit=7
+
+[varbit_174]
+//unsupported: basevar=varp_388
+//unsupported: startbit=8
+//unsupported: endbit=9
+
+[varbit_175]
+//unsupported: basevar=varp_388
+//unsupported: startbit=16
+//unsupported: endbit=18
+
+[varbit_176]
+//unsupported: basevar=varp_388
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_177]
+//unsupported: basevar=varp_388
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_178]
+//unsupported: basevar=varp_388
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_179]
+//unsupported: basevar=varp_396
+//unsupported: startbit=7
+//unsupported: endbit=11
+
+[varbit_180]
+//unsupported: basevar=varp_396
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_181]
+//unsupported: basevar=varp_396
+//unsupported: startbit=13
+//unsupported: endbit=16
+
+[varbit_182]
+//unsupported: basevar=varp_396
+//unsupported: startbit=0
+//unsupported: endbit=2
+
+[varbit_183]
+//unsupported: basevar=varp_396
+//unsupported: startbit=3
+//unsupported: endbit=6
+
+[varbit_184]
+//unsupported: basevar=varp_396
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_185]
+//unsupported: basevar=varp_400
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_186]
+//unsupported: basevar=varp_400
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_187]
+//unsupported: basevar=varp_400
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_188]
+//unsupported: basevar=varp_400
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_189]
+//unsupported: basevar=varp_400
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_190]
+//unsupported: basevar=varp_400
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_191]
+//unsupported: basevar=varp_400
+//unsupported: startbit=5
+//unsupported: endbit=7
+
+[varbit_192]
+//unsupported: basevar=varp_400
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_193]
+//unsupported: basevar=varp_400
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_194]
+//unsupported: basevar=varp_400
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_195]
+//unsupported: basevar=varp_400
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_196]
+//unsupported: basevar=varp_400
+//unsupported: startbit=12
+//unsupported: endbit=16
+
+[varbit_197]
+//unsupported: basevar=varp_400
+//unsupported: startbit=17
+//unsupported: endbit=19
+
+[varbit_198]
+//unsupported: basevar=varp_400
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_199]
+//unsupported: basevar=varp_400
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_200]
+//unsupported: basevar=varp_400
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_201]
+//unsupported: basevar=varp_340
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_202]
+//unsupported: basevar=varp_142
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_203]
+//unsupported: basevar=varp_400
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_204]
+//unsupported: basevar=varp_408
+//unsupported: startbit=0
+//unsupported: endbit=5
+
+[varbit_205]
+//unsupported: basevar=varp_408
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_206]
+//unsupported: basevar=varp_408
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_207]
+//unsupported: basevar=varp_408
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_208]
+//unsupported: basevar=varp_408
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_209]
+//unsupported: basevar=varp_408
+//unsupported: startbit=10
+//unsupported: endbit=14
+
+[varbit_210]
+//unsupported: basevar=varp_408
+//unsupported: startbit=15
+//unsupported: endbit=16
+
+[varbit_211]
+//unsupported: basevar=varp_408
+//unsupported: startbit=17
+//unsupported: endbit=18
+
+[varbit_212]
+//unsupported: basevar=varp_408
+//unsupported: startbit=19
+//unsupported: endbit=22
+
+[varbit_213]
+//unsupported: basevar=varp_408
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_214]
+//unsupported: basevar=varp_408
+//unsupported: startbit=24
+//unsupported: endbit=25
+
+[varbit_215]
+//unsupported: basevar=varp_408
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_216]
+//unsupported: basevar=varp_408
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_217]
+//unsupported: basevar=varp_408
+//unsupported: startbit=28
+//unsupported: endbit=31
+
+[varbit_218]
+//unsupported: basevar=varp_409
+//unsupported: startbit=10
+//unsupported: endbit=12
+
+[varbit_219]
+//unsupported: basevar=varp_409
+//unsupported: startbit=13
+//unsupported: endbit=15
+
+[varbit_220]
+//unsupported: basevar=varp_409
+//unsupported: startbit=16
+//unsupported: endbit=18
+
+[varbit_221]
+//unsupported: basevar=varp_409
+//unsupported: startbit=19
+//unsupported: endbit=21
+
+[varbit_222]
+//unsupported: basevar=varp_409
+//unsupported: startbit=22
+//unsupported: endbit=24
+
+[varbit_223]
+//unsupported: basevar=varp_409
+//unsupported: startbit=25
+//unsupported: endbit=27
+
+[varbit_224]
+//unsupported: basevar=varp_412
+//unsupported: startbit=0
+//unsupported: endbit=9
+
+[varbit_225]
+//unsupported: basevar=varp_412
+//unsupported: startbit=10
+//unsupported: endbit=13
+
+[varbit_226]
+//unsupported: basevar=varp_412
+//unsupported: startbit=14
+//unsupported: endbit=17
+
+[varbit_227]
+//unsupported: basevar=varp_412
+//unsupported: startbit=18
+//unsupported: endbit=21
+
+[varbit_228]
+//unsupported: basevar=varp_412
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_229]
+//unsupported: basevar=varp_412
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_230]
+//unsupported: basevar=varp_413
+//unsupported: startbit=0
+//unsupported: endbit=5
+
+[varbit_231]
+//unsupported: basevar=varp_413
+//unsupported: startbit=6
+//unsupported: endbit=11
+
+[varbit_232]
+//unsupported: basevar=varp_413
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_233]
+//unsupported: basevar=varp_413
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_234]
+//unsupported: basevar=varp_413
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_235]
+//unsupported: basevar=varp_174
+//unsupported: startbit=14
+//unsupported: endbit=15
+
+[varbit_236]
+//unsupported: basevar=varp_417
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_237]
+//unsupported: basevar=varp_417
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_238]
+//unsupported: basevar=varp_417
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_239]
+//unsupported: basevar=varp_417
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_240]
+//unsupported: basevar=varp_417
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_241]
+//unsupported: basevar=varp_417
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_242]
+//unsupported: basevar=varp_417
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_243]
+//unsupported: basevar=varp_417
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_244]
+//unsupported: basevar=varp_417
+//unsupported: startbit=1
+//unsupported: endbit=8
+
+[varbit_245]
+//unsupported: basevar=varp_417
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_246]
+//unsupported: basevar=varp_417
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_247]
+//unsupported: basevar=varp_417
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_248]
+//unsupported: basevar=varp_417
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_249]
+//unsupported: basevar=varp_417
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_250]
+//unsupported: basevar=varp_417
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_251]
+//unsupported: basevar=varp_417
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_252]
+//unsupported: basevar=varp_417
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_253]
+//unsupported: basevar=varp_417
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_254]
+//unsupported: basevar=varp_417
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_255]
+//unsupported: basevar=varp_417
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_256]
+//unsupported: basevar=varp_417
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_257]
+//unsupported: basevar=varp_417
+//unsupported: startbit=29
+//unsupported: endbit=30
+
+[varbit_258]
+//unsupported: basevar=varp_417
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_259]
+//unsupported: basevar=varp_417
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_260]
+//unsupported: basevar=varp_423
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_261]
+//unsupported: basevar=varp_423
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_262]
+//unsupported: basevar=varp_423
+//unsupported: startbit=9
+//unsupported: endbit=14
+
+[varbit_263]
+//unsupported: basevar=varp_423
+//unsupported: startbit=15
+//unsupported: endbit=19
+
+[varbit_264]
+//unsupported: basevar=varp_423
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_265]
+//unsupported: basevar=varp_423
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_266]
+//unsupported: basevar=varp_423
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_267]
+//unsupported: basevar=varp_423
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_268]
+//unsupported: basevar=varp_423
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_269]
+//unsupported: basevar=varp_423
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_270]
+//unsupported: basevar=varp_423
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_271]
+//unsupported: basevar=varp_423
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_272]
+//unsupported: basevar=varp_423
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_273]
+//unsupported: basevar=varp_423
+//unsupported: startbit=29
+//unsupported: endbit=30
+
+[varbit_274]
+//unsupported: basevar=varp_423
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_275]
+//unsupported: basevar=varp_108
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_276]
+//unsupported: basevar=varp_108
+//unsupported: startbit=1
+//unsupported: endbit=31
+
+[varbit_277]
+//unsupported: basevar=varp_425
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_278]
+//unsupported: basevar=varp_425
+//unsupported: startbit=1
+//unsupported: endbit=2
+
+[varbit_279]
+//unsupported: basevar=varp_425
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_280]
+//unsupported: basevar=varp_425
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_281]
+//unsupported: basevar=varp_425
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_282]
+//unsupported: basevar=varp_425
+//unsupported: startbit=6
+//unsupported: endbit=8
+
+[varbit_283]
+//unsupported: basevar=varp_425
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_284]
+//unsupported: basevar=varp_425
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_285]
+//unsupported: basevar=varp_425
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_286]
+//unsupported: basevar=varp_117
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_287]
+//unsupported: basevar=varp_117
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_288]
+//unsupported: basevar=varp_117
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_289]
+//unsupported: basevar=varp_117
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_290]
+//unsupported: basevar=varp_117
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_291]
+//unsupported: basevar=varp_117
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_292]
+//unsupported: basevar=varp_117
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_293]
+//unsupported: basevar=varp_117
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_294]
+//unsupported: basevar=varp_117
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_295]
+//unsupported: basevar=varp_117
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_296]
+//unsupported: basevar=varp_117
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_297]
+//unsupported: basevar=varp_429
+//unsupported: startbit=2
+//unsupported: endbit=31
+
+[varbit_298]
+//unsupported: basevar=varp_429
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_299]
+//unsupported: basevar=varp_433
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_300]
+//unsupported: basevar=varp_433
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_301]
+//unsupported: basevar=varp_433
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_302]
+//unsupported: basevar=varp_433
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_303]
+//unsupported: basevar=varp_433
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_304]
+//unsupported: basevar=varp_433
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_305]
+//unsupported: basevar=varp_433
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_306]
+//unsupported: basevar=varp_433
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_307]
+//unsupported: basevar=varp_433
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_308]
+//unsupported: basevar=varp_433
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_309]
+//unsupported: basevar=varp_433
+//unsupported: startbit=17
+//unsupported: endbit=26
+
+[varbit_310]
+//unsupported: basevar=varp_433
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_311]
+//unsupported: basevar=varp_433
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_312]
+//unsupported: basevar=varp_433
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_313]
+//unsupported: basevar=varp_433
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_314]
+//unsupported: basevar=varp_433
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_315]
+//unsupported: basevar=varp_436
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_316]
+//unsupported: basevar=varp_436
+//unsupported: startbit=2
+//unsupported: endbit=3
+
+[varbit_317]
+//unsupported: basevar=varp_436
+//unsupported: startbit=4
+//unsupported: endbit=6
+
+[varbit_318]
+//unsupported: basevar=varp_436
+//unsupported: startbit=7
+//unsupported: endbit=8
+
+[varbit_319]
+//unsupported: basevar=varp_436
+//unsupported: startbit=9
+//unsupported: endbit=10
+
+[varbit_320]
+//unsupported: basevar=varp_436
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_321]
+//unsupported: basevar=varp_436
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_322]
+//unsupported: basevar=varp_436
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_323]
+//unsupported: basevar=varp_436
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_324]
+//unsupported: basevar=varp_436
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_325]
+//unsupported: basevar=varp_436
+//unsupported: startbit=17
+//unsupported: endbit=20
+
+[varbit_326]
+//unsupported: basevar=varp_436
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_327]
+//unsupported: basevar=varp_436
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_328]
+//unsupported: basevar=varp_436
+//unsupported: startbit=23
+//unsupported: endbit=24
+
+[varbit_329]
+//unsupported: basevar=varp_436
+//unsupported: startbit=25
+//unsupported: endbit=26
+
+[varbit_330]
+//unsupported: basevar=varp_436
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_331]
+//unsupported: basevar=varp_436
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_332]
+//unsupported: basevar=varp_436
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_333]
+//unsupported: basevar=varp_436
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_334]
+//unsupported: basevar=varp_435
+//unsupported: startbit=0
+//unsupported: endbit=5
+
+[varbit_335]
+//unsupported: basevar=varp_435
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_336]
+//unsupported: basevar=varp_435
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_337]
+//unsupported: basevar=varp_435
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_338]
+//unsupported: basevar=varp_435
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_339]
+//unsupported: basevar=varp_435
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_340]
+//unsupported: basevar=varp_435
+//unsupported: startbit=11
+//unsupported: endbit=12
+
+[varbit_341]
+//unsupported: basevar=varp_435
+//unsupported: startbit=13
+//unsupported: endbit=14
+
+[varbit_342]
+//unsupported: basevar=varp_435
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_343]
+//unsupported: basevar=varp_435
+//unsupported: startbit=16
+//unsupported: endbit=17
+
+[varbit_344]
+//unsupported: basevar=varp_435
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_345]
+//unsupported: basevar=varp_435
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_346]
+//unsupported: basevar=varp_437
+//unsupported: startbit=0
+//unsupported: endbit=4
+
+[varbit_347]
+//unsupported: basevar=varp_437
+//unsupported: startbit=5
+//unsupported: endbit=6
+
+[varbit_348]
+//unsupported: basevar=varp_437
+//unsupported: startbit=7
+//unsupported: endbit=9
+
+[varbit_349]
+//unsupported: basevar=varp_437
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_350]
+//unsupported: basevar=varp_437
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_351]
+//unsupported: basevar=varp_437
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_352]
+//unsupported: basevar=varp_437
+//unsupported: startbit=13
+//unsupported: endbit=14
+
+[varbit_353]
+//unsupported: basevar=varp_437
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_354]
+//unsupported: basevar=varp_437
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_355]
+//unsupported: basevar=varp_437
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_356]
+//unsupported: basevar=varp_437
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_357]
+//unsupported: basevar=varp_439
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_358]
+//unsupported: basevar=varp_440
+//unsupported: startbit=0
+//unsupported: endbit=14
+
+[varbit_359]
+//unsupported: basevar=varp_441
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_360]
+//unsupported: basevar=varp_441
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_361]
+//unsupported: basevar=varp_441
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_362]
+//unsupported: basevar=varp_441
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_363]
+//unsupported: basevar=varp_441
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_364]
+//unsupported: basevar=varp_441
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_365]
+//unsupported: basevar=varp_441
+//unsupported: startbit=6
+//unsupported: endbit=17
+
+[varbit_366]
+//unsupported: basevar=varp_441
+//unsupported: startbit=18
+//unsupported: endbit=23
+
+[varbit_367]
+//unsupported: basevar=varp_441
+//unsupported: startbit=24
+//unsupported: endbit=29
+
+[varbit_368]
+//unsupported: basevar=varp_441
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_369]
+//unsupported: basevar=varp_441
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_370]
+//unsupported: basevar=varp_442
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_371]
+//unsupported: basevar=varp_442
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_372]
+//unsupported: basevar=varp_442
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_373]
+//unsupported: basevar=varp_442
+//unsupported: startbit=3
+//unsupported: endbit=6
+
+[varbit_374]
+//unsupported: basevar=varp_442
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_375]
+//unsupported: basevar=varp_442
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_376]
+//unsupported: basevar=varp_442
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_377]
+//unsupported: basevar=varp_442
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_378]
+//unsupported: basevar=varp_442
+//unsupported: startbit=11
+//unsupported: endbit=15
+
+[varbit_379]
+//unsupported: basevar=varp_442
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_380]
+//unsupported: basevar=varp_442
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_381]
+//unsupported: basevar=varp_442
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_382]
+//unsupported: basevar=varp_442
+//unsupported: startbit=19
+//unsupported: endbit=23
+
+[varbit_383]
+//unsupported: basevar=varp_442
+//unsupported: startbit=24
+//unsupported: endbit=28
+
+[varbit_384]
+//unsupported: basevar=varp_442
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_385]
+//unsupported: basevar=varp_442
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_386]
+//unsupported: basevar=varp_442
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_387]
+//unsupported: basevar=varp_440
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_388]
+//unsupported: basevar=varp_440
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_389]
+//unsupported: basevar=varp_440
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_390]
+//unsupported: basevar=varp_440
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_391]
+//unsupported: basevar=varp_440
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_392]
+//unsupported: basevar=varp_440
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_393]
+//unsupported: basevar=varp_440
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_394]
+//unsupported: basevar=varp_440
+//unsupported: startbit=22
+//unsupported: endbit=31
+
+[varbit_395]
+//unsupported: basevar=varp_443
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_396]
+//unsupported: basevar=varp_388
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_397]
+//unsupported: basevar=varp_443
+//unsupported: startbit=0
+//unsupported: endbit=2
+
+[varbit_398]
+//unsupported: basevar=varp_443
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_399]
+//unsupported: basevar=varp_443
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_400]
+//unsupported: basevar=varp_443
+//unsupported: startbit=5
+//unsupported: endbit=7
+
+[varbit_401]
+//unsupported: basevar=varp_443
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_402]
+//unsupported: basevar=varp_443
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_403]
+//unsupported: basevar=varp_443
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_404]
+//unsupported: basevar=varp_443
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_405]
+//unsupported: basevar=varp_443
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_406]
+//unsupported: basevar=varp_443
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_407]
+//unsupported: basevar=varp_443
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_408]
+//unsupported: basevar=varp_443
+//unsupported: startbit=14
+//unsupported: endbit=15
+
+[varbit_409]
+//unsupported: basevar=varp_443
+//unsupported: startbit=16
+//unsupported: endbit=18
+
+[varbit_410]
+//unsupported: basevar=varp_443
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_411]
+//unsupported: basevar=varp_443
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_412]
+//unsupported: basevar=varp_443
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_413]
+//unsupported: basevar=varp_443
+//unsupported: startbit=23
+//unsupported: endbit=24
+
+[varbit_414]
+//unsupported: basevar=varp_443
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_415]
+//unsupported: basevar=varp_443
+//unsupported: startbit=26
+//unsupported: endbit=27
+
+[varbit_416]
+//unsupported: basevar=varp_443
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_417]
+//unsupported: basevar=varp_443
+//unsupported: startbit=29
+//unsupported: endbit=31
+
+[varbit_418]
+//unsupported: basevar=varp_445
+//unsupported: startbit=0
+//unsupported: endbit=4
+
+[varbit_419]
+//unsupported: basevar=varp_445
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_420]
+//unsupported: basevar=varp_445
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_421]
+//unsupported: basevar=varp_445
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_422]
+//unsupported: basevar=varp_445
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_423]
+//unsupported: basevar=varp_445
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_424]
+//unsupported: basevar=varp_445
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_425]
+//unsupported: basevar=varp_445
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_426]
+//unsupported: basevar=varp_445
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_427]
+//unsupported: basevar=varp_445
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_428]
+//unsupported: basevar=varp_445
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_429]
+//unsupported: basevar=varp_445
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_430]
+//unsupported: basevar=varp_445
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_431]
+//unsupported: basevar=varp_445
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_432]
+//unsupported: basevar=varp_445
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_433]
+//unsupported: basevar=varp_445
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_434]
+//unsupported: basevar=varp_445
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_435]
+//unsupported: basevar=varp_445
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_436]
+//unsupported: basevar=varp_445
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_437]
+//unsupported: basevar=varp_445
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_438]
+//unsupported: basevar=varp_445
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_439]
+//unsupported: basevar=varp_445
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_440]
+//unsupported: basevar=varp_445
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_441]
+//unsupported: basevar=varp_445
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_442]
+//unsupported: basevar=varp_445
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_443]
+//unsupported: basevar=varp_445
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_444]
+//unsupported: basevar=varp_445
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_445]
+//unsupported: basevar=varp_445
+//unsupported: startbit=6
+//unsupported: endbit=30
+
+[varbit_446]
+//unsupported: basevar=varp_445
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_447]
+//unsupported: basevar=varp_446
+//unsupported: startbit=0
+//unsupported: endbit=2
+
+[varbit_448]
+//unsupported: basevar=varp_446
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_449]
+//unsupported: basevar=varp_446
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_450]
+//unsupported: basevar=varp_446
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_451]
+//unsupported: basevar=varp_449
+//unsupported: startbit=0
+//unsupported: endbit=1
+
+[varbit_452]
+//unsupported: basevar=varp_449
+//unsupported: startbit=2
+//unsupported: endbit=5
+
+[varbit_453]
+//unsupported: basevar=varp_449
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_454]
+//unsupported: basevar=varp_449
+//unsupported: startbit=7
+//unsupported: endbit=11
+
+[varbit_455]
+//unsupported: basevar=varp_449
+//unsupported: startbit=12
+//unsupported: endbit=20
+
+[varbit_456]
+//unsupported: basevar=varp_449
+//unsupported: startbit=22
+//unsupported: endbit=31
+
+[varbit_457]
+//unsupported: basevar=varp_453
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_458]
+//unsupported: basevar=varp_453
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_459]
+//unsupported: basevar=varp_453
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_460]
+//unsupported: basevar=varp_453
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_461]
+//unsupported: basevar=varp_453
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_462]
+//unsupported: basevar=varp_453
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_463]
+//unsupported: basevar=varp_453
+//unsupported: startbit=6
+//unsupported: endbit=16
+
+[varbit_464]
+//unsupported: basevar=varp_453
+//unsupported: startbit=17
+//unsupported: endbit=31
+
+[varbit_465]
+//unsupported: basevar=varp_452
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_466]
+//unsupported: basevar=varp_452
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_467]
+//unsupported: basevar=varp_452
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_468]
+//unsupported: basevar=varp_452
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_469]
+//unsupported: basevar=varp_452
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_470]
+//unsupported: basevar=varp_452
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_471]
+//unsupported: basevar=varp_452
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_472]
+//unsupported: basevar=varp_452
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_473]
+//unsupported: basevar=varp_452
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_474]
+//unsupported: basevar=varp_452
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_475]
+//unsupported: basevar=varp_452
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_476]
+//unsupported: basevar=varp_452
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_477]
+//unsupported: basevar=varp_452
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_478]
+//unsupported: basevar=varp_452
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_479]
+//unsupported: basevar=varp_452
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_480]
+//unsupported: basevar=varp_452
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_481]
+//unsupported: basevar=varp_452
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_482]
+//unsupported: basevar=varp_452
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_483]
+//unsupported: basevar=varp_452
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_484]
+//unsupported: basevar=varp_452
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_485]
+//unsupported: basevar=varp_452
+//unsupported: startbit=29
+//unsupported: endbit=31
+
+[varbit_486]
+//unsupported: basevar=varp_449
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_487]
+//unsupported: basevar=varp_455
+//unsupported: startbit=0
+//unsupported: endbit=4
+
+[varbit_488]
+//unsupported: basevar=varp_455
+//unsupported: startbit=5
+//unsupported: endbit=7
+
+[varbit_489]
+//unsupported: basevar=varp_455
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_490]
+//unsupported: basevar=varp_455
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_491]
+//unsupported: basevar=varp_455
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_492]
+//unsupported: basevar=varp_455
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_493]
+//unsupported: basevar=varp_455
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_494]
+//unsupported: basevar=varp_455
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_495]
+//unsupported: basevar=varp_455
+//unsupported: startbit=14
+//unsupported: endbit=15
+
+[varbit_496]
+//unsupported: basevar=varp_455
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_497]
+//unsupported: basevar=varp_455
+//unsupported: startbit=17
+//unsupported: endbit=18
+
+[varbit_498]
+//unsupported: basevar=varp_455
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_499]
+//unsupported: basevar=varp_455
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_500]
+//unsupported: basevar=varp_455
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_501]
+//unsupported: basevar=varp_455
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_502]
+//unsupported: basevar=varp_455
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_503]
+//unsupported: basevar=varp_455
+//unsupported: startbit=24
+//unsupported: endbit=25
+
+[varbit_504]
+//unsupported: basevar=varp_455
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_505]
+//unsupported: basevar=varp_455
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_506]
+//unsupported: basevar=varp_455
+//unsupported: startbit=28
+//unsupported: endbit=30
+
+[varbit_507]
+//unsupported: basevar=varp_455
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_508]
+//unsupported: basevar=varp_457
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_509]
+//unsupported: basevar=varp_457
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_510]
+//unsupported: basevar=varp_457
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_511]
+//unsupported: basevar=varp_457
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_512]
+//unsupported: basevar=varp_458
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_513]
+//unsupported: basevar=varp_458
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_514]
+//unsupported: basevar=varp_458
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_515]
+//unsupported: basevar=varp_458
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_516]
+//unsupported: basevar=varp_459
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_517]
+//unsupported: basevar=varp_459
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_518]
+//unsupported: basevar=varp_459
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_519]
+//unsupported: basevar=varp_459
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_520]
+//unsupported: basevar=varp_460
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_521]
+//unsupported: basevar=varp_460
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_522]
+//unsupported: basevar=varp_460
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_523]
+//unsupported: basevar=varp_460
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_524]
+//unsupported: basevar=varp_461
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_525]
+//unsupported: basevar=varp_461
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_526]
+//unsupported: basevar=varp_461
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_527]
+//unsupported: basevar=varp_461
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_528]
+//unsupported: basevar=varp_462
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_529]
+//unsupported: basevar=varp_462
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_530]
+//unsupported: basevar=varp_462
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_531]
+//unsupported: basevar=varp_462
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_532]
+//unsupported: basevar=varp_465
+//unsupported: startbit=0
+//unsupported: endbit=10
+
+[varbit_533]
+//unsupported: basevar=varp_465
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_534]
+//unsupported: basevar=varp_465
+//unsupported: startbit=13
+//unsupported: endbit=14
+
+[varbit_535]
+//unsupported: basevar=varp_465
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_536]
+//unsupported: basevar=varp_465
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_537]
+//unsupported: basevar=varp_465
+//unsupported: startbit=17
+//unsupported: endbit=18
+
+[varbit_538]
+//unsupported: basevar=varp_465
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_539]
+//unsupported: basevar=varp_465
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_540]
+//unsupported: basevar=varp_465
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_541]
+//unsupported: basevar=varp_465
+//unsupported: startbit=22
+//unsupported: endbit=24
+
+[varbit_542]
+//unsupported: basevar=varp_466
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_543]
+//unsupported: basevar=varp_466
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_544]
+//unsupported: basevar=varp_467
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_545]
+//unsupported: basevar=varp_467
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_546]
+//unsupported: basevar=varp_467
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_547]
+//unsupported: basevar=varp_467
+//unsupported: startbit=24
+//unsupported: endbit=31
+
+[varbit_548]
+//unsupported: basevar=varp_468
+//unsupported: startbit=0
+//unsupported: endbit=7
+
+[varbit_549]
+//unsupported: basevar=varp_468
+//unsupported: startbit=8
+//unsupported: endbit=15
+
+[varbit_550]
+//unsupported: basevar=varp_468
+//unsupported: startbit=16
+//unsupported: endbit=23
+
+[varbit_551]
+//unsupported: basevar=varp_468
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_552]
+//unsupported: basevar=varp_468
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_553]
+//unsupported: basevar=varp_468
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_554]
+//unsupported: basevar=varp_468
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_555]
+//unsupported: basevar=varp_468
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_556]
+//unsupported: basevar=varp_468
+//unsupported: startbit=29
+//unsupported: endbit=29
+
+[varbit_557]
+//unsupported: basevar=varp_468
+//unsupported: startbit=30
+//unsupported: endbit=30
+
+[varbit_558]
+//unsupported: basevar=varp_468
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_559]
+//unsupported: basevar=varp_470
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_560]
+//unsupported: basevar=varp_472
+//unsupported: startbit=0
+//unsupported: endbit=8
+
+[varbit_561]
+//unsupported: basevar=varp_472
+//unsupported: startbit=9
+//unsupported: endbit=15
+
+[varbit_562]
+//unsupported: basevar=varp_472
+//unsupported: startbit=16
+//unsupported: endbit=26
+
+[varbit_563]
+//unsupported: basevar=varp_472
+//unsupported: startbit=27
+//unsupported: endbit=30
+
+[varbit_564]
+//unsupported: basevar=varp_472
+//unsupported: startbit=31
+//unsupported: endbit=31
+
+[varbit_565]
+//unsupported: basevar=varp_474
+//unsupported: startbit=0
+//unsupported: endbit=8
+
+[varbit_566]
+//unsupported: basevar=varp_474
+//unsupported: startbit=9
+//unsupported: endbit=15
+
+[varbit_567]
+//unsupported: basevar=varp_474
+//unsupported: startbit=16
+//unsupported: endbit=25
+
+[varbit_568]
+//unsupported: basevar=varp_474
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_569]
+//unsupported: basevar=varp_474
+//unsupported: startbit=27
+//unsupported: endbit=31
+
+[varbit_570]
+//unsupported: basevar=varp_475
+//unsupported: startbit=0
+//unsupported: endbit=9
+
+[varbit_571]
+//unsupported: basevar=varp_482
+//unsupported: startbit=0
+//unsupported: endbit=6
+
+[varbit_572]
+//unsupported: basevar=varp_482
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_573]
+//unsupported: basevar=varp_482
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_574]
+//unsupported: basevar=varp_482
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_575]
+//unsupported: basevar=varp_482
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_576]
+//unsupported: basevar=varp_482
+//unsupported: startbit=11
+//unsupported: endbit=14
+
+[varbit_577]
+//unsupported: basevar=varp_482
+//unsupported: startbit=15
+//unsupported: endbit=18
+
+[varbit_578]
+//unsupported: basevar=varp_482
+//unsupported: startbit=19
+//unsupported: endbit=22
+
+[varbit_579]
+//unsupported: basevar=varp_482
+//unsupported: startbit=23
+//unsupported: endbit=23
+
+[varbit_580]
+//unsupported: basevar=varp_482
+//unsupported: startbit=24
+//unsupported: endbit=24
+
+[varbit_581]
+//unsupported: basevar=varp_482
+//unsupported: startbit=25
+//unsupported: endbit=25
+
+[varbit_582]
+//unsupported: basevar=varp_482
+//unsupported: startbit=26
+//unsupported: endbit=26
+
+[varbit_583]
+//unsupported: basevar=varp_482
+//unsupported: startbit=27
+//unsupported: endbit=27
+
+[varbit_584]
+//unsupported: basevar=varp_482
+//unsupported: startbit=28
+//unsupported: endbit=28
+
+[varbit_585]
+//unsupported: basevar=varp_483
+//unsupported: startbit=0
+//unsupported: endbit=9
+
+[varbit_586]
+//unsupported: basevar=varp_483
+//unsupported: startbit=10
+//unsupported: endbit=19
+
+[varbit_587]
+//unsupported: basevar=varp_483
+//unsupported: startbit=20
+//unsupported: endbit=25
+
+[varbit_588]
+//unsupported: basevar=varp_483
+//unsupported: startbit=26
+//unsupported: endbit=31
+
+[varbit_589]
+//unsupported: basevar=varp_174
+//unsupported: startbit=18
+//unsupported: endbit=18
+
+[varbit_590]
+//unsupported: basevar=varp_174
+//unsupported: startbit=19
+//unsupported: endbit=19
+
+[varbit_591]
+//unsupported: basevar=varp_174
+//unsupported: startbit=20
+//unsupported: endbit=20
+
+[varbit_592]
+//unsupported: basevar=varp_174
+//unsupported: startbit=21
+//unsupported: endbit=21
+
+[varbit_593]
+//unsupported: basevar=varp_174
+//unsupported: startbit=22
+//unsupported: endbit=22
+
+[varbit_594]
+//unsupported: basevar=varp_174
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_595]
+//unsupported: basevar=varp_174
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_596]
+//unsupported: basevar=varp_279
+//unsupported: startbit=0
+//unsupported: endbit=5
+
+[varbit_597]
+//unsupported: basevar=varp_279
+//unsupported: startbit=6
+//unsupported: endbit=9
+
+[varbit_598]
+//unsupported: basevar=varp_279
+//unsupported: startbit=10
+//unsupported: endbit=11
+
+[varbit_599]
+//unsupported: basevar=varp_279
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_600]
+//unsupported: basevar=varp_279
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_601]
+//unsupported: basevar=varp_279
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_602]
+//unsupported: basevar=varp_279
+//unsupported: startbit=15
+//unsupported: endbit=16
+
+[varbit_603]
+//unsupported: basevar=varp_486
+//unsupported: startbit=0
+//unsupported: endbit=2
+
+[varbit_604]
+//unsupported: basevar=varp_486
+//unsupported: startbit=3
+//unsupported: endbit=8
+
+[varbit_605]
+//unsupported: basevar=varp_486
+//unsupported: startbit=9
+//unsupported: endbit=17
+
+[varbit_606]
+//unsupported: basevar=varp_486
+//unsupported: startbit=18
+//unsupported: endbit=29
+
+[varbit_607]
+//unsupported: basevar=varp_491
+//unsupported: startbit=0
+//unsupported: endbit=0
+
+[varbit_608]
+//unsupported: basevar=varp_491
+//unsupported: startbit=1
+//unsupported: endbit=1
+
+[varbit_609]
+//unsupported: basevar=varp_491
+//unsupported: startbit=2
+//unsupported: endbit=2
+
+[varbit_610]
+//unsupported: basevar=varp_491
+//unsupported: startbit=3
+//unsupported: endbit=3
+
+[varbit_611]
+//unsupported: basevar=varp_491
+//unsupported: startbit=4
+//unsupported: endbit=4
+
+[varbit_612]
+//unsupported: basevar=varp_491
+//unsupported: startbit=5
+//unsupported: endbit=5
+
+[varbit_613]
+//unsupported: basevar=varp_491
+//unsupported: startbit=6
+//unsupported: endbit=6
+
+[varbit_614]
+//unsupported: basevar=varp_491
+//unsupported: startbit=7
+//unsupported: endbit=7
+
+[varbit_615]
+//unsupported: basevar=varp_491
+//unsupported: startbit=8
+//unsupported: endbit=8
+
+[varbit_616]
+//unsupported: basevar=varp_491
+//unsupported: startbit=9
+//unsupported: endbit=9
+
+[varbit_617]
+//unsupported: basevar=varp_491
+//unsupported: startbit=10
+//unsupported: endbit=10
+
+[varbit_618]
+//unsupported: basevar=varp_491
+//unsupported: startbit=11
+//unsupported: endbit=11
+
+[varbit_619]
+//unsupported: basevar=varp_491
+//unsupported: startbit=12
+//unsupported: endbit=12
+
+[varbit_620]
+//unsupported: basevar=varp_491
+//unsupported: startbit=13
+//unsupported: endbit=13
+
+[varbit_621]
+//unsupported: basevar=varp_491
+//unsupported: startbit=14
+//unsupported: endbit=14
+
+[varbit_622]
+//unsupported: basevar=varp_491
+//unsupported: startbit=15
+//unsupported: endbit=15
+
+[varbit_623]
+//unsupported: basevar=varp_491
+//unsupported: startbit=16
+//unsupported: endbit=16
+
+[varbit_624]
+//unsupported: basevar=varp_491
+//unsupported: startbit=17
+//unsupported: endbit=17
+
+[varbit_625]
+//unsupported: basevar=varp_491
+//unsupported: startbit=18
+//unsupported: endbit=29
+
+[varbit_626]
+//unsupported: basevar=varp_491
+//unsupported: startbit=30
+//unsupported: endbit=30

@@ -1,4 +1,4 @@
-import Jimp from 'jimp';
+import { Jimp } from 'jimp';
 
 import Packet from '#jagex2/io/Packet.js';
 
@@ -91,7 +91,7 @@ export function unpackPix(dat: Packet, idx: Packet, id = 0) {
     const width = idx.g2();
     const height = idx.g2();
 
-    const img = new Jimp(cropW, cropH, 0xff00ffff).colorType(2);
+    const img = new Jimp({width: cropW, height: cropH, color: 0xff00ffff}).greyscale();
 
     const pixelOrder = idx.g1();
     if (pixelOrder === 0) {

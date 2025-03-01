@@ -1,0 +1,572 @@
+[flo_0]
+overlay=yes
+rgb=0xAAAAAA
+//implicit: editname=cliff
+
+[flo_1]
+overlay=yes
+rgb=0x444444
+//implicit: editname=cliff2
+
+[flo_2]
+overlay=yes
+rgb=0x666666
+//implicit: editname=cliff3
+
+[flo_3]
+overlay=yes
+rgb=0x888888
+//implicit: editname=cliff4
+
+[flo_4]
+overlay=yes
+texture=3
+//implicit: editname=woodenfloor
+
+[flo_5]
+overlay=yes
+texture=1
+//implicit: editname=water
+
+[flo_6]
+overlay=yes
+texture=25
+//implicit: editname=gungywater
+
+[flo_7]
+overlay=yes
+rgb=0x5B5B5B
+//implicit: editname=greyroof
+
+[flo_8]
+overlay=yes
+rgb=0xFFFFF5
+//implicit: editname=desertroof
+
+[flo_9]
+overlay=yes
+rgb=0x505050
+//implicit: editname=road
+
+[flo_10]
+overlay=yes
+rgb=0x222222
+//implicit: editname=darkstone
+
+[flo_11]
+overlay=yes
+texture=46
+//implicit: editname=pebblefloor
+
+[flo_12]
+overlay=yes
+rgb=0x993333
+//implicit: editname=redfloor
+
+[flo_13]
+overlay=yes
+rgb=0x3D2B0B
+//implicit: editname=mudfloor
+
+[flo_14]
+overlay=yes
+rgb=0x3D2B0B
+//implicit: editname=mudfloor_bump
+
+[flo_15]
+overlay=yes
+rgb=0x663300
+//implicit: editname=mudfloor2
+
+[flo_16]
+overlay=yes
+rgb=0x663300
+//implicit: editname=mudfloor2_bump
+
+[flo_17]
+overlay=yes
+rgb=0x0000CC
+//implicit: editname=bluefloor
+
+[flo_18]
+overlay=yes
+texture=31
+//implicit: editname=lava
+
+[flo_19]
+overlay=yes
+texture=15
+//implicit: editname=marble
+
+[flo_20]
+overlay=yes
+rgb=0x996600
+//implicit: editname=sandfloor
+
+[flo_21]
+overlay=yes
+rgb=0x6D5B2B
+//implicit: editname=l_brownfloor1
+
+[flo_22]
+overlay=yes
+rgb=0x6D5B2B
+//implicit: editname=l_brownfloor1_bump
+
+[flo_23]
+overlay=yes
+texture=47
+//implicit: editname=cliff_textured
+
+[flo_24]
+overlay=yes
+rgb=0xCBBA76
+//implicit: editname=sand_cliff
+
+[flo_25]
+overlay=yes
+rgb=0x827944
+//implicit: editname=sand_rock
+
+[flo_26]
+overlay=yes
+texture=23
+//implicit: editname=oldbrick
+
+[flo_27]
+overlay=yes
+texture=2
+//implicit: editname=brick
+
+[flo_28]
+overlay=yes
+rgb=0x35720A
+//implicit: editname=grass
+
+[flo_29]
+overlay=yes
+rgb=0xEEEEEE
+//implicit: editname=ice_overlay
+
+[flo_30]
+overlay=yes
+rgb=0x654D0B
+//implicit: editname=upass_floor
+
+[flo_31]
+overlay=yes
+texture=11
+//implicit: editname=stone_texture
+
+[flo_32]
+overlay=yes
+rgb=0xC9DDF7
+//implicit: editname=ice_overlay_blue
+
+[flo_33]
+overlay=yes
+rgb=0x505050
+//implicit: editname=road_bridge
+
+[flo_34]
+overlay=yes
+texture=3
+//implicit: editname=woodenfloor_bridge
+
+[flo_35]
+overlay=yes
+rgb=0x664411
+//implicit: editname=mud5_overlay
+
+[flo_36]
+overlay=yes
+rgb=0x000000
+//implicit: editname=black
+
+[flo_37]
+overlay=yes
+rgb=0x557799
+//implicit: editname=lightblue
+
+[flo_38]
+overlay=yes
+texture=17
+//implicit: editname=water_fountain
+
+[flo_39]
+overlay=yes
+rgb=0x4749A3
+//implicit: editname=bluefloor2
+
+[flo_40]
+overlay=yes
+rgb=0x3F6181
+//implicit: editname=waterfallblue
+
+[flo_41]
+overlay=yes
+occlude=no
+rgb=0xFF00FF
+//implicit: editname=invisible
+
+[flo_42]
+overlay=yes
+rgb=0xFF00FF
+//implicit: editname=invisible_occ
+
+[flo_43]
+overlay=yes
+rgb=0x505050
+occlude=no
+//implicit: editname=road_no_occlude
+
+[flo_44]
+overlay=yes
+texture=3
+occlude=no
+//implicit: editname=woodenfloor_no_occlude
+
+[flo_45]
+overlay=yes
+texture=23
+occlude=no
+//implicit: editname=oldbrick_no_occlude
+
+[flo_46]
+overlay=yes
+texture=2
+occlude=no
+//implicit: editname=brick_no_occlude
+
+[flo_47]
+rgb=0x35720A
+//implicit: editname=grassland
+
+[flo_48]
+rgb=0x58680B
+//implicit: editname=muddygrass
+
+[flo_49]
+rgb=0x78680B
+//implicit: editname=vmuddygrass
+
+[flo_50]
+rgb=0x6CAC10
+//implicit: editname=lightgrass
+
+[flo_51]
+rgb=0x819531
+//implicit: editname=sandygrass
+
+[flo_52]
+rgb=0x55520A
+//implicit: editname=swamp
+
+[flo_53]
+rgb=0x125841
+//implicit: editname=swamp2
+
+[flo_54]
+rgb=0x767676
+//implicit: editname=lightrock
+
+[flo_55]
+rgb=0x4D4D4D
+//implicit: editname=darkrock
+
+[flo_56]
+rgb=0x2E2E2E
+//implicit: editname=verydarkrock
+
+[flo_57]
+rgb=0xEEEEEE
+occlude=no
+//implicit: editname=ice
+
+[flo_58]
+rgb=0xD1D6E7
+//implicit: editname=blueice
+
+[flo_59]
+rgb=0xD1E7D6
+//implicit: editname=greenice
+
+[flo_60]
+rgb=0xB19A3D
+//implicit: editname=desert1
+
+[flo_61]
+rgb=0xD0C074
+//implicit: editname=desert2
+
+[flo_62]
+rgb=0x3D2B0B
+//implicit: editname=mud1
+
+[flo_63]
+rgb=0x644E1E
+//implicit: editname=mud2
+
+[flo_64]
+rgb=0x654D0B
+//implicit: editname=mud3
+
+[flo_65]
+rgb=0x663300
+//implicit: editname=mud4
+
+[flo_66]
+rgb=0x664411
+occlude=no
+//implicit: editname=mud5
+
+[flo_67]
+rgb=0xCBBA76
+//implicit: editname=sand
+
+[flo_68]
+rgb=0x644E1E
+occlude=no
+//implicit: editname=mud2_skew
+
+[flo_69]
+rgb=0x654D0B
+occlude=no
+//implicit: editname=mud3_skew
+
+[flo_70]
+rgb=0x663300
+occlude=no
+//implicit: editname=mud4_skew
+
+[flo_71]
+rgb=0x030303
+occlude=no
+//implicit: editname=black_rock
+
+[flo_72]
+rgb=0x557799
+//implicit: editname=dullblue
+
+[flo_73]
+rgb=0x995566
+//implicit: editname=purple_pink
+
+[flo_74]
+rgb=0x557799
+//implicit: editname=lightblue_underlay
+
+[flo_75]
+overlay=yes
+rgb=0xC4AC4E
+//implicit: editname=desert_shadow
+
+[flo_76]
+overlay=yes
+rgb=0xB79767
+//implicit: editname=duel_arena
+
+[flo_77]
+rgb=0xD9BB93
+//implicit: editname=duelarena
+
+[flo_78]
+overlay=yes
+rgb=0x97874F
+//implicit: editname=hive
+
+[flo_79]
+overlay=yes
+rgb=0x7D5B2B
+//implicit: editname=agility
+
+[flo_80]
+overlay=yes
+rgb=0x504020
+//implicit: editname=brownmud
+
+[flo_81]
+overlay=yes
+rgb=0x5C5444
+//implicit: editname=mountain_overlay
+
+[flo_82]
+overlay=yes
+rgb=0x464034
+//implicit: editname=mountain_dark_overlay
+
+[flo_83]
+overlay=yes
+texture=35
+//implicit: editname=elfbrick
+
+[flo_84]
+overlay=yes
+rgb=0x303525
+//implicit: editname=elf_wastelands
+
+[flo_85]
+overlay=yes
+rgb=0x2D0000
+//implicit: editname=dark_red
+
+[flo_86]
+overlay=yes
+rgb=0x423F73
+//implicit: editname=grey_blue
+
+[flo_87]
+overlay=yes
+rgb=0x544D37
+//implicit: editname=viking_town_overlay
+
+[flo_88]
+overlay=yes
+rgb=0x5E461C
+//implicit: editname=viking_mud_overlay
+
+[flo_89]
+overlay=yes
+rgb=0x2E2920
+//implicit: editname=viking_cave_overlay
+
+[flo_90]
+overlay=yes
+rgb=0x504020
+//implicit: editname=legendssword_cave
+
+[flo_91]
+rgb=0x5C5444
+//implicit: editname=mountain
+
+[flo_92]
+rgb=0x38562F
+//implicit: editname=darkgrass
+
+[flo_93]
+rgb=0x464034
+//implicit: editname=mountain_dark
+
+[flo_94]
+rgb=0x3E6995
+//implicit: editname=grey_blue_underlay
+
+[flo_95]
+rgb=0x4B3E14
+//implicit: editname=autumnal
+
+[flo_96]
+rgb=0x5C543C
+//implicit: editname=viking_town
+
+[flo_97]
+rgb=0x2F2B1F
+//implicit: editname=viking_town_dark
+
+[flo_98]
+rgb=0x276D27
+//implicit: editname=jungle_green
+
+[flo_99]
+rgb=0x396215
+//implicit: editname=jungle_dark_green
+
+[flo_100]
+overlay=yes
+rgb=0x544217
+//implicit: editname=mm_town_overlay
+
+[flo_101]
+overlay=yes
+rgb=0x303525
+//implicit: editname=slayer_tower
+
+[flo_102]
+rgb=0x111E1A
+//implicit: editname=morytania_dark_green
+
+[flo_103]
+overlay=yes
+rgb=0x83C3CA
+//implicit: editname=dwarf_glacial_water
+
+[flo_104]
+rgb=0x666666
+//implicit: editname=dwarf_mines_overlay
+
+[flo_105]
+overlay=yes
+rgb=0x66593B
+//implicit: editname=elf_light_temple
+
+[flo_106]
+overlay=yes
+rgb=0x3A4B35
+//implicit: editname=ahoy_town
+
+[flo_107]
+overlay=yes
+rgb=0x403010
+//implicit: editname=mdaugher_mud
+
+[flo_108]
+overlay=yes
+rgb=0xC9DDF9
+//implicit: editname=mdaugher_water
+
+[flo_109]
+overlay=yes
+rgb=0x383820
+//implicit: editname=moytania_barrow_crypt
+
+[flo_110]
+rgb=0x666666
+//implicit: editname=dwarf_mines
+
+[flo_111]
+rgb=0x333333
+//implicit: editname=dwarf_mines_dark
+
+[flo_112]
+rgb=0x2B2E2D
+//implicit: editname=dwarf_city
+
+[flo_113]
+rgb=0x64BB75
+//implicit: editname=morytania_ectoplasm_glow
+
+[flo_114]
+rgb=0x33501E
+//implicit: editname=morytania_barrow_downs
+
+[flo_115]
+rgb=0x71155C
+//implicit: editname=morytania_barrow_crypt_purple
+
+[flo_116]
+overlay=yes
+occlude=no
+rgb=0x4F4F4F
+//implicit: editname=dwarf_keldagrim
+
+[flo_117]
+rgb=0x752222
+//implicit: editname=dwarf_red
+
+[flo_118]
+overlay=yes
+rgb=0x5C543C
+//unsupported: maprgb=0x000000
+
+[flo_119]
+overlay=yes
+rgb=0x2F2B1F
+//unsupported: maprgb=0x000000
+
+[flo_120]
+rgb=0x603028
+//implicit: editname=abyssal_ground
+
+[flo_121]
+rgb=0x300000
+//implicit: editname=abyssal_ground_dark

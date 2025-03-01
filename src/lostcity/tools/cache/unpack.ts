@@ -44,8 +44,9 @@ if (fs.existsSync('dump/main_file_cache.dat')) {
     }
 
     fs.writeFileSync('data/src/pack/model.pack', '');
-    const modelCount = 0; // cache.count(1);
+    const modelCount = cache.count(1);
     for (let i = 0; i < modelCount; i++) {
+        console.log("test");
         fs.appendFileSync('data/src/pack/model.pack', `${i}=model_${i}\n`);
 
         if (fs.existsSync('data/src/models/_unpack/model_' + i + '.ob2')) {

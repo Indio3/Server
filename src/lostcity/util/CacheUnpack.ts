@@ -1,5 +1,5 @@
 import fs from 'fs';
-import Jimp from 'jimp';
+import { Jimp } from 'jimp';
 
 import FileStream from '#jagex2/io/FileStream.js';
 import Jagfile from '#jagex2/io/Jagfile.js';
@@ -24,12 +24,12 @@ function unpackImage(dat: Packet | null, idx: Packet | null, id: number = 0) {
     return unpackPix(dat, idx, id);
 }
 
-function saveImage(img: Jimp | undefined, file: string) {
+function saveImage(img: InstanceType<typeof Jimp>  | undefined, file: string) {
     if (!img || !file) {
         return;
     }
 
-    img.write(file + '.png');
+    img.write(`${file}.png` as `${string}.${string}`);
 }
 
 function unpackAndSaveImage(jag: Jagfile, idx: Packet | null, file: string, outDir: string) {
@@ -44,7 +44,7 @@ function unpackAndSaveImage(jag: Jagfile, idx: Packet | null, file: string, outD
 
     const unpacked = unpackImage(dat, idx);
     if (unpacked) {
-        saveImage(unpacked.img, 'data/src/' + outDir + '/' + file);
+        //saveImage(unpacked.img, `data/src/${outDir}/${file}.png`);
 
         // ----
 
@@ -57,7 +57,7 @@ function unpackAndSaveImage(jag: Jagfile, idx: Packet | null, file: string, outD
 
         // ----
 
-        const pal = new Jimp(16, 16, 0xff00ffff).colorType(2);
+        const pal = new Jimp({width: 16, height: 16, color: 0xff00ffff}).greyscale();
 
         for (let j = 1; j < unpacked.palette.length; j++) {
             const x = j % 16;
@@ -71,7 +71,7 @@ function unpackAndSaveImage(jag: Jagfile, idx: Packet | null, file: string, outD
             pal.bitmap.data[pos + 2] = color & 0xff;
         }
 
-        saveImage(pal, 'data/src/' + outDir + '/meta/' + file + '.pal');
+        //saveImage(pal, 'data/src/' + outDir + '/meta/' + file + '.pal');
     }
 }
 
@@ -107,16 +107,16 @@ function unpackAndSaveSheet(jag: Jagfile, idx: Packet | null, file: string, outD
         }
     }
 
-    const sheet = new Jimp(width * size.width, height * size.height, 0xff00ffff).colorType(2);
+    const sheet = new Jimp({width: width * size.width, height: height * size.height, color: 0xff00ffff}).greyscale();
 
     for (let j = 0; j < count; j++) {
         const x = j % width;
         const y = Math.floor(j / width);
 
-        sheet.blit(sprites[j].img, x * size.width, y * size.height, 0, 0, size.width, size.height);
+        //sheet.blit(sprites[j].img, x * size.width, y * size.height, 0, 0, size.width, size.height);
     }
 
-    saveImage(sheet, 'data/src/' + outDir + '/' + file);
+    //saveImage(sheet, 'data/src/' + outDir + '/' + file);
 
     // ----
 
@@ -135,7 +135,7 @@ function unpackAndSaveSheet(jag: Jagfile, idx: Packet | null, file: string, outD
 
     // ----
 
-    const pal = new Jimp(16, 16, 0xff00ffff).colorType(2);
+    const pal = new Jimp({width: 16, height: 16, color: 0xff00ffff}).greyscale();
 
     for (let j = 1; j < sprites[0].palette.length; j++) {
         const x = j % 16;
@@ -149,7 +149,7 @@ function unpackAndSaveSheet(jag: Jagfile, idx: Packet | null, file: string, outD
         pal.bitmap.data[pos + 2] = color & 0xff;
     }
 
-    saveImage(pal, 'data/src/' + outDir + '/meta/' + file + '.pal');
+    //saveImage(pal, 'data/src/' + outDir + '/meta/' + file + '.pal');
 }
 
 export function unpackAndSave(jag: Jagfile, idx: Packet | null, file: string, outDir: string) {
