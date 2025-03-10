@@ -1,0 +1,84 @@
+[npc_1017]
+desc=Yep, definitely a chicken.
+//walkanim=53
+//readyanim=54
+op2=Attack
+vislevel=1
+recol1s=127
+recol1d=5667
+recol2s=11200
+recol2d=11179
+recol3s=8394
+recol3d=5786
+recol4s=61
+recol4d=5786
+name=Chicken
+model1=model_2849_npc
+
+[npc_1018]
+desc=He rules the...er...roost.
+//walkanim=53
+//readyanim=54
+op2=Attack
+resizeh=172
+resizev=172
+vislevel=2
+recol1s=127
+recol1d=3998
+recol2s=11200
+recol2d=6720
+recol3s=8394
+recol3d=1942
+recol4s=61
+recol4d=1942
+name=Rooster
+model1=model_2849_npc
+
+[npc_1019]
+desc=A fire elemental.
+//readyanim=1027
+//walkanim=1028
+//hasanim=true
+op2=Attack
+vislevel=35
+name=Fire elemental
+model1=model_335
+
+[npc_1020]
+desc=An earth elemental.
+//readyanim=1033
+//walkanim=1034
+op2=Attack
+vislevel=35
+name=Earth elemental
+model1=model_175
+
+[npc_1021]
+desc=An air elemental.
+//readyanim=1039
+//walkanim=1039
+//hasanim=true
+op2=Attack
+vislevel=34
+name=Air elemental
+model1=model_172
+
+[npc_1022]
+desc=A water elemental.
+//readyanim=1045
+//walkanim=1047
+op2=Attack
+//hasanim=true
+vislevel=34
+name=Water elemental
+model1=model_334
+
+[npc_1023]
+desc=An earth elemental.
+//readyanim=1033
+//walkanim=1034
+op2=Attack
+vislevel=35
+name=Earth elemental
+model1=model_175
+
