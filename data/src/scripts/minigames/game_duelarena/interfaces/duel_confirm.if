@@ -699,7 +699,7 @@ type=layer
 x=19
 y=55
 width=218
-height=142
+height=122
 scroll=188
 
 [com_88]
@@ -758,7 +758,7 @@ type=layer
 x=260
 y=55
 width=218
-height=142
+height=122
 scroll=188
 
 [otherinv_nothing]
@@ -828,7 +828,7 @@ colour=0xFFAA44
 [obstacles]
 type=text
 x=298
-y=270
+y=250
 width=57
 height=14
 font=p12
@@ -876,7 +876,7 @@ graphic=miscgraphics,2
 [com_103]
 type=graphic
 x=239
-y=160
+y=141
 width=36
 height=36
 graphic=miscgraphics,2
@@ -892,7 +892,7 @@ graphic=miscgraphics,2
 [com_105]
 type=layer
 x=391
-y=212
+y=192
 width=78
 height=42
 
@@ -976,7 +976,7 @@ graphic=miscgraphics,3
 [com_114]
 type=layer
 x=391
-y=262
+y=242
 width=78
 height=43
 
@@ -1060,7 +1060,7 @@ graphic=miscgraphics,3
 [no_forfeit_text]
 type=text
 x=61
-y=210
+y=190
 buttontype=normal
 width=57
 height=14
@@ -1072,7 +1072,7 @@ colour=0xAA8822
 [no_magic_text]
 type=text
 x=188
-y=250
+y=230
 width=50
 height=14
 font=p12
@@ -1083,7 +1083,7 @@ colour=0xAA8822
 [no_ranged_text]
 type=text
 x=188
-y=210
+y=190
 width=60
 height=14
 font=p12
@@ -1094,7 +1094,7 @@ colour=0xAA8822
 [no_melee_text]
 type=text
 x=188
-y=230
+y=210
 width=51
 height=14
 font=p12
@@ -1106,7 +1106,7 @@ colour=0xAA8822
 [no_weapons_text]
 type=text
 x=61
-y=250
+y=230
 width=69
 height=14
 font=p12
@@ -1117,7 +1117,7 @@ colour=0xAA8822
 [no_potions_text]
 type=text
 x=298
-y=210
+y=190
 width=61
 height=14
 font=p12
@@ -1128,7 +1128,7 @@ colour=0xAA8822
 [no_food_text]
 type=text
 x=298
-y=230
+y=210
 width=45
 height=14
 font=p12
@@ -1139,7 +1139,7 @@ colour=0xAA8822
 [no_prayer_text]
 type=text
 x=298
-y=250
+y=230
 width=56
 height=14
 font=p12
@@ -1150,7 +1150,7 @@ colour=0xAA8822
 [no_movement_text]
 type=text
 x=61
-y=230
+y=210
 width=76
 height=14
 font=p12
@@ -1161,7 +1161,7 @@ colour=0xAA8822
 [no_armour_text]
 type=text
 x=61
-y=270
+y=250
 width=59
 height=14
 font=p12
@@ -1172,7 +1172,7 @@ colour=0xAA8822
 [com_133]
 type=graphic
 x=18
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1180,7 +1180,7 @@ graphic=steelborder2,0
 [com_134]
 type=graphic
 x=54
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1188,7 +1188,7 @@ graphic=steelborder2,0
 [com_135]
 type=graphic
 x=90
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1196,7 +1196,7 @@ graphic=steelborder2,0
 [com_136]
 type=graphic
 x=126
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1204,7 +1204,7 @@ graphic=steelborder2,0
 [com_137]
 type=graphic
 x=162
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1212,7 +1212,7 @@ graphic=steelborder2,0
 [com_138]
 type=graphic
 x=198
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1220,7 +1220,7 @@ graphic=steelborder2,0
 [com_139]
 type=graphic
 x=234
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1228,7 +1228,7 @@ graphic=steelborder2,0
 [com_140]
 type=graphic
 x=270
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1236,7 +1236,7 @@ graphic=steelborder2,0
 [com_141]
 type=graphic
 x=306
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1244,7 +1244,7 @@ graphic=steelborder2,0
 [com_142]
 type=graphic
 x=342
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1252,7 +1252,7 @@ graphic=steelborder2,0
 [com_143]
 type=graphic
 x=378
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1260,7 +1260,7 @@ graphic=steelborder2,0
 [com_144]
 type=graphic
 x=414
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1268,7 +1268,7 @@ graphic=steelborder2,0
 [com_145]
 type=graphic
 x=450
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1276,7 +1276,7 @@ graphic=steelborder2,0
 [com_146]
 type=graphic
 x=458
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1284,7 +1284,7 @@ graphic=steelborder2,0
 [com_147]
 type=graphic
 x=36
-y=210
+y=190
 width=14
 height=15
 script1op1=testbit,duel_settings,0
@@ -1295,7 +1295,7 @@ activegraphic=miscgraphics,11
 [com_148]
 type=graphic
 x=36
-y=230
+y=210
 width=14
 height=15
 script1op1=testbit,duel_settings,1
@@ -1306,7 +1306,7 @@ activegraphic=miscgraphics,11
 [com_149]
 type=graphic
 x=36
-y=250
+y=230
 width=14
 height=15
 script1op1=testbit,duel_settings,2
@@ -1317,7 +1317,7 @@ activegraphic=miscgraphics,11
 [com_150]
 type=graphic
 x=36
-y=270
+y=250
 width=14
 height=15
 script1op1=testbit,duel_settings,3
@@ -1328,7 +1328,7 @@ activegraphic=miscgraphics,11
 [com_151]
 type=graphic
 x=162
-y=210
+y=190
 width=14
 height=15
 script1op1=testbit,duel_settings,4
@@ -1339,7 +1339,7 @@ activegraphic=miscgraphics,11
 [com_152]
 type=graphic
 x=162
-y=230
+y=210
 width=14
 height=15
 script1op1=testbit,duel_settings,5
@@ -1350,7 +1350,7 @@ activegraphic=miscgraphics,11
 [com_153]
 type=graphic
 x=162
-y=250
+y=230
 width=14
 height=15
 script1op1=testbit,duel_settings,6
@@ -1361,7 +1361,7 @@ activegraphic=miscgraphics,11
 [com_154]
 type=graphic
 x=272
-y=210
+y=190
 width=14
 height=15
 script1op1=testbit,duel_settings,7
@@ -1372,7 +1372,7 @@ activegraphic=miscgraphics,11
 [com_155]
 type=graphic
 x=272
-y=230
+y=210
 width=14
 height=15
 script1op1=testbit,duel_settings,8
@@ -1383,7 +1383,7 @@ activegraphic=miscgraphics,11
 [com_156]
 type=graphic
 x=272
-y=250
+y=230
 width=14
 height=15
 script1op1=testbit,duel_settings,9
@@ -1394,7 +1394,7 @@ activegraphic=miscgraphics,11
 [com_157]
 type=graphic
 x=272
-y=270
+y=250
 width=14
 height=15
 script1op1=testbit,duel_settings,10
@@ -1404,24 +1404,17 @@ activegraphic=miscgraphics,11
 
 [status]
 type=text
-x=194
+x=73
 y=293
-width=130
+width=360
 height=11
+center=yes
 font=p11
 shadowed=yes
-text=Waiting for other player...
+text=You can't have No Ranged, No Melee AND No Magic, how would you fight?
 colour=0xAAAAAA
 
 [com_159]
-type=graphic
-x=239
-y=161
-width=36
-height=36
-graphic=miscgraphics,2
-
-[flower_power_text]
 type=text
 x=188
 y=270
@@ -1432,7 +1425,7 @@ shadowed=yes
 text=Flower Power
 colour=0xAA8822
 
-[com_161]
+[flower_power_text]
 type=graphic
 x=162
 y=270
@@ -1443,10 +1436,10 @@ script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
 
-[no_jewelry_text]
+[com_161]
 type=text
 x=61
-y=290
+y=270
 width=61
 height=14
 font=p12
@@ -1454,13 +1447,42 @@ shadowed=yes
 text=No Jewelry
 colour=0xAA8822
 
-[com_163]
+[no_jewelry_text]
 type=graphic
 x=36
-y=290
+y=270
 width=14
 height=15
 script1op1=testbit,duel_settings,11
 script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
+
+[com_163]
+type=layer
+x=130
+y=130
+width=32
+height=32
+
+[com_0]
+type=graphic
+x=162
+y=250
+width=14
+height=15
+script1op1=testbit,duel_settings,13
+script1=eq,1
+graphic=miscgraphics,10
+activegraphic=miscgraphics,11
+
+[com_1]
+type=text
+x=188
+y=250
+width=57
+height=14
+font=p12
+shadowed=yes
+text=No Sp. Atk
+colour=0xAA8822

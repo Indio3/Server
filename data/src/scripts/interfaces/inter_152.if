@@ -1,7 +1,7 @@
-[preview]
+[com_0]
 type=model
-x=136
-y=24
+x=135
+y=16
 width=35
 height=32
 model=model_2778_obj
@@ -20,7 +20,7 @@ shadowed=yes
 text=Weapon:
 colour=0xFFFF00
 
-[name]
+[com_2]
 type=text
 x=52
 y=10
@@ -42,15 +42,15 @@ shadowed=yes
 text=Choose Attack Style
 colour=0x00C000
 
-[stab101]
+[com_4]
 type=layer
 x=4
 y=60
 width=145
 height=190
 
-[stab0]
-layer=stab101
+[com_5]
+layer=com_4
 type=graphic
 x=5
 y=1
@@ -62,11 +62,11 @@ script1=eq,0
 graphic=combatboxes,0
 activegraphic=combatboxes,1
 
-[stab3]
-layer=stab101
+[com_6]
+layer=com_4
 type=graphic
 x=5
-y=129
+y=124
 buttontype=select
 width=72
 height=36
@@ -75,11 +75,11 @@ script1=eq,3
 graphic=combatboxes,0
 activegraphic=combatboxes,1
 
-[stab2]
-layer=stab101
+[com_7]
+layer=com_4
 type=graphic
 x=5
-y=85
+y=83
 buttontype=select
 width=72
 height=36
@@ -88,11 +88,11 @@ script1=eq,2
 graphic=combatboxes,0
 activegraphic=combatboxes,1
 
-[stab1]
-layer=stab101
+[com_8]
+layer=com_4
 type=graphic
 x=5
-y=43
+y=42
 buttontype=select
 width=72
 height=36
@@ -102,70 +102,58 @@ graphic=combatboxes,0
 activegraphic=combatboxes,1
 
 [com_9]
-layer=stab101
+layer=com_4
 type=graphic
 x=22
-y=135
+y=130
 width=34
 height=24
-graphic=combaticons,4
+graphic=combaticons3,7
 
 [com_10]
-layer=stab101
+layer=com_4
 type=graphic
-x=24
-y=7
+x=22
+y=6
 width=34
 height=24
-graphic=combaticons,7
+graphic=combaticons3,6
 
 [com_11]
-layer=stab101
+layer=com_4
 type=graphic
-x=21
+x=22
 y=48
 width=34
 height=24
-graphic=combaticons,6
+graphic=combaticons3,5
 
 [com_12]
-layer=stab101
+layer=com_4
 type=graphic
-x=21
-y=91
+x=22
+y=89
 width=34
 height=24
-graphic=combaticons,5
+graphic=combaticons3,4
 
 [com_13]
-layer=stab101
+layer=com_4
 type=text
 x=78
-y=2
-width=23
+y=0
+width=25
 height=11
 font=p11
 shadowed=yes
-text=Stab
+text=Chop
 colour=0xFFFF00
 
 [com_14]
-layer=stab101
+layer=com_4
 type=text
 x=78
 y=43
-width=29
-height=11
-font=p11
-shadowed=yes
-text=Lunge
-colour=0xFFFF00
-
-[com_15]
-layer=stab101
-type=text
-x=78
-y=86
 width=28
 height=11
 font=p11
@@ -173,11 +161,23 @@ shadowed=yes
 text=Slash
 colour=0xFFFF00
 
-[com_16]
-layer=stab101
+[com_15]
+layer=com_4
 type=text
 x=78
-y=129
+y=83
+width=29
+height=11
+font=p11
+shadowed=yes
+text=Lunge
+colour=0xFFFF00
+
+[com_16]
+layer=com_4
+type=text
+x=79
+y=124
 width=26
 height=11
 font=p11
@@ -186,10 +186,10 @@ text=Block
 colour=0xFFFF00
 
 [com_17]
-layer=stab101
+layer=com_4
 type=text
 x=78
-y=15
+y=12
 width=50
 height=11
 font=p11
@@ -197,18 +197,18 @@ text=(Accurate)
 colour=0xFFFF00
 
 [com_18]
-layer=stab101
+layer=com_4
 type=text
 x=78
-y=98
-width=64
+y=95
+width=58
 height=11
 font=p11
-text=(Aggressive)
+text=(Controlled)
 colour=0xFFFF00
 
 [com_19]
-layer=stab101
+layer=com_4
 type=text
 x=78
 y=55
@@ -219,10 +219,10 @@ text=(Aggressive)
 colour=0xFFFF00
 
 [com_20]
-layer=stab101
+layer=com_4
 type=text
-x=77
-y=141
+x=78
+y=137
 width=58
 height=11
 font=p11
@@ -232,44 +232,44 @@ colour=0xFFFF00
 [com_21]
 type=text
 x=82
-y=87
-width=29
-height=11
-font=p11
-text=(Stab)
-colour=0xFFFF00
-
-[com_22]
-type=text
-x=82
-y=127
-width=29
-height=11
-font=p11
-text=(Stab)
-colour=0xFFFF00
-
-[com_23]
-type=text
-x=81
-y=170
+y=84
 width=34
 height=11
 font=p11
 text=(Slash)
 colour=0xFFFF00
 
-[com_24]
+[com_22]
 type=text
 x=82
-y=213
+y=127
+width=34
+height=11
+font=p11
+text=(Slash)
+colour=0xFFFF00
+
+[com_23]
+type=text
+x=82
+y=167
 width=29
 height=11
 font=p11
 text=(Stab)
 colour=0xFFFF00
 
-[com_0]
+[com_24]
+type=text
+x=82
+y=210
+width=34
+height=11
+font=p11
+text=(Slash)
+colour=0xFFFF00
+
+[com_25]
 type=layer
 x=17
 y=231
@@ -277,19 +277,19 @@ width=158
 height=24
 hide=yes
 
-[com_1]
-layer=com_0
+[com_26]
+layer=com_25
 type=rect
-x=1
+x=0
 y=1
 buttontype=normal
-width=155
+width=156
 height=23
 colour=0xFFFF00
 option=Use @gre@Special Attack
 
-[com_2]
-layer=com_0
+[com_27]
+layer=com_25
 type=graphic
 x=131
 y=1
@@ -297,8 +297,8 @@ width=25
 height=30
 graphic=steelborder,1
 
-[com_3]
-layer=com_0
+[com_28]
+layer=com_25
 type=graphic
 x=0
 y=1
@@ -306,8 +306,8 @@ width=25
 height=30
 graphic=steelborder,0
 
-[com_4]
-layer=com_0
+[com_29]
+layer=com_25
 type=graphic
 x=6
 y=-15
@@ -315,8 +315,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_5]
-layer=com_0
+[com_30]
+layer=com_25
 type=graphic
 x=42
 y=-15
@@ -324,8 +324,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_6]
-layer=com_0
+[com_31]
+layer=com_25
 type=graphic
 x=78
 y=-15
@@ -333,8 +333,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_7]
-layer=com_0
+[com_32]
+layer=com_25
 type=graphic
 x=114
 y=-15
@@ -342,8 +342,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_8]
-layer=com_0
+[com_33]
+layer=com_25
 type=graphic
 x=5
 y=3
@@ -351,8 +351,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_9]
-layer=com_0
+[com_34]
+layer=com_25
 type=graphic
 x=41
 y=3
@@ -360,8 +360,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_10]
-layer=com_0
+[com_35]
+layer=com_25
 type=graphic
 x=77
 y=3
@@ -369,8 +369,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_11]
-layer=com_0
+[com_36]
+layer=com_25
 type=graphic
 x=112
 y=3
@@ -378,8 +378,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_12]
-layer=com_0
+[com_37]
+layer=com_25
 type=graphic
 x=115
 y=3
@@ -387,8 +387,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_13]
-layer=com_0
+[com_38]
+layer=com_25
 type=model
 x=5
 y=8
@@ -398,8 +398,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_14]
-layer=com_0
+[com_39]
+layer=com_25
 type=model
 x=3
 y=8
@@ -411,8 +411,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_15]
-layer=com_0
+[com_40]
+layer=com_25
 type=model
 x=18
 y=8
@@ -424,8 +424,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_16]
-layer=com_0
+[com_41]
+layer=com_25
 type=model
 x=33
 y=8
@@ -437,8 +437,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_17]
-layer=com_0
+[com_42]
+layer=com_25
 type=model
 x=47
 y=8
@@ -450,8 +450,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_18]
-layer=com_0
+[com_43]
+layer=com_25
 type=model
 x=61
 y=8
@@ -463,8 +463,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_19]
-layer=com_0
+[com_44]
+layer=com_25
 type=model
 x=75
 y=8
@@ -476,8 +476,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_20]
-layer=com_0
+[com_45]
+layer=com_25
 type=model
 x=90
 y=8
@@ -489,8 +489,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_21]
-layer=com_0
+[com_46]
+layer=com_25
 type=model
 x=104
 y=8
@@ -502,8 +502,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_22]
-layer=com_0
+[com_47]
+layer=com_25
 type=model
 x=118
 y=8
@@ -515,8 +515,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_23]
-layer=com_0
+[com_48]
+layer=com_25
 type=model
 x=132
 y=8
@@ -528,8 +528,8 @@ model=undefined
 zoom=1153
 xan=500
 
-[com_24]
-layer=com_0
+[com_49]
+layer=com_25
 type=text
 x=20
 y=7

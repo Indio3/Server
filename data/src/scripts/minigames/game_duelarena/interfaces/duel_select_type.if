@@ -731,7 +731,7 @@ graphic=miscgraphics,2
 layer=com_88
 type=graphic
 x=203
-y=143
+y=122
 width=36
 height=36
 graphic=miscgraphics,2
@@ -745,21 +745,12 @@ width=36
 height=36
 graphic=miscgraphics,2
 
-[com_93]
-layer=com_88
-type=graphic
-x=203
-y=143
-width=36
-height=36
-graphic=miscgraphics,2
-
 [com_94]
 type=layer
 x=19
 y=55
 width=218
-height=142
+height=122
 scroll=216
 
 [inv]
@@ -793,7 +784,7 @@ type=layer
 x=258
 y=55
 width=220
-height=142
+height=122
 scroll=216
 
 [otherinv]
@@ -820,7 +811,7 @@ colour=0xAA8822
 [com_100]
 type=layer
 x=391
-y=212
+y=192
 width=78
 height=42
 
@@ -904,7 +895,7 @@ graphic=miscgraphics,3
 [com_109]
 type=layer
 x=391
-y=262
+y=242
 width=78
 height=43
 
@@ -998,14 +989,14 @@ colour=0xFFAA44
 
 [status]
 type=text
-x=194
+x=73
 y=293
-width=130
+width=360
 height=11
 center=yes
 font=p11
 shadowed=yes
-text=Waiting for other player...
+text=You can't have No Ranged, No Melee AND No Magic, how would you fight?
 colour=0xAAAAAA
 
 [com_120]
@@ -1024,7 +1015,7 @@ overcolour=0xFFFFFF
 [no_forfeit_text]
 type=text
 x=61
-y=210
+y=190
 buttontype=normal
 width=57
 height=14
@@ -1036,7 +1027,7 @@ colour=0xAA8822
 [no_magic_text]
 type=text
 x=188
-y=250
+y=230
 buttontype=normal
 width=50
 height=14
@@ -1048,7 +1039,7 @@ colour=0xAA8822
 [no_ranged_text]
 type=text
 x=188
-y=210
+y=190
 buttontype=normal
 width=60
 height=14
@@ -1060,7 +1051,7 @@ colour=0xAA8822
 [no_melee_text]
 type=text
 x=188
-y=230
+y=210
 buttontype=normal
 width=51
 height=14
@@ -1072,7 +1063,7 @@ colour=0xAA8822
 [no_weapons_text]
 type=text
 x=61
-y=250
+y=230
 buttontype=normal
 width=69
 height=14
@@ -1084,7 +1075,7 @@ colour=0xAA8822
 [no_potions_text]
 type=text
 x=298
-y=210
+y=190
 buttontype=normal
 width=61
 height=14
@@ -1096,7 +1087,7 @@ colour=0xAA8822
 [no_food_text]
 type=text
 x=298
-y=230
+y=210
 buttontype=normal
 width=45
 height=14
@@ -1108,7 +1099,7 @@ colour=0xAA8822
 [no_prayer_text]
 type=text
 x=298
-y=250
+y=230
 buttontype=normal
 width=56
 height=14
@@ -1120,7 +1111,7 @@ colour=0xAA8822
 [no_movement_text]
 type=text
 x=61
-y=230
+y=210
 buttontype=normal
 width=76
 height=14
@@ -1132,7 +1123,7 @@ colour=0xAA8822
 [no_armour_text]
 type=text
 x=61
-y=270
+y=250
 buttontype=normal
 width=59
 height=14
@@ -1144,7 +1135,7 @@ colour=0xAA8822
 [com_131]
 type=graphic
 x=18
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1152,7 +1143,7 @@ graphic=steelborder2,0
 [com_132]
 type=graphic
 x=54
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1160,7 +1151,7 @@ graphic=steelborder2,0
 [com_133]
 type=graphic
 x=90
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1168,7 +1159,7 @@ graphic=steelborder2,0
 [com_134]
 type=graphic
 x=126
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1176,7 +1167,7 @@ graphic=steelborder2,0
 [com_135]
 type=graphic
 x=162
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1184,7 +1175,7 @@ graphic=steelborder2,0
 [com_136]
 type=graphic
 x=198
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1192,7 +1183,7 @@ graphic=steelborder2,0
 [com_137]
 type=graphic
 x=234
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1200,7 +1191,7 @@ graphic=steelborder2,0
 [com_138]
 type=graphic
 x=270
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1208,7 +1199,7 @@ graphic=steelborder2,0
 [com_139]
 type=graphic
 x=306
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1216,7 +1207,7 @@ graphic=steelborder2,0
 [com_140]
 type=graphic
 x=342
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1224,7 +1215,7 @@ graphic=steelborder2,0
 [com_141]
 type=graphic
 x=378
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1232,7 +1223,7 @@ graphic=steelborder2,0
 [com_142]
 type=graphic
 x=414
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1240,7 +1231,7 @@ graphic=steelborder2,0
 [com_143]
 type=graphic
 x=450
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
@@ -1248,15 +1239,23 @@ graphic=steelborder2,0
 [com_144]
 type=graphic
 x=458
-y=182
+y=162
 width=36
 height=36
 graphic=steelborder2,0
 
+[com_0]
+type=inv
+x=9
+y=16
+width=5
+height=6
+margin=10,1
+
 [no_forfeit]
 type=graphic
 x=36
-y=210
+y=190
 buttontype=normal
 width=14
 height=15
@@ -1268,7 +1267,7 @@ activegraphic=miscgraphics,11
 [no_movement]
 type=graphic
 x=36
-y=230
+y=210
 buttontype=normal
 width=14
 height=15
@@ -1280,7 +1279,7 @@ activegraphic=miscgraphics,11
 [no_weapons]
 type=graphic
 x=36
-y=250
+y=230
 buttontype=normal
 width=14
 height=15
@@ -1292,7 +1291,7 @@ activegraphic=miscgraphics,11
 [no_armour]
 type=graphic
 x=36
-y=270
+y=250
 buttontype=normal
 width=14
 height=15
@@ -1304,7 +1303,7 @@ activegraphic=miscgraphics,11
 [no_ranged]
 type=graphic
 x=162
-y=210
+y=190
 buttontype=normal
 width=14
 height=15
@@ -1316,7 +1315,7 @@ activegraphic=miscgraphics,11
 [no_melee]
 type=graphic
 x=162
-y=230
+y=210
 buttontype=normal
 width=14
 height=15
@@ -1328,7 +1327,7 @@ activegraphic=miscgraphics,11
 [no_magic]
 type=graphic
 x=162
-y=250
+y=230
 buttontype=normal
 width=14
 height=15
@@ -1340,7 +1339,7 @@ activegraphic=miscgraphics,11
 [no_potions]
 type=graphic
 x=272
-y=210
+y=190
 buttontype=normal
 width=14
 height=15
@@ -1352,7 +1351,7 @@ activegraphic=miscgraphics,11
 [no_food]
 type=graphic
 x=272
-y=230
+y=210
 buttontype=normal
 width=14
 height=15
@@ -1364,7 +1363,7 @@ activegraphic=miscgraphics,11
 [no_prayer]
 type=graphic
 x=272
-y=250
+y=230
 buttontype=normal
 width=14
 height=15
@@ -1376,7 +1375,7 @@ activegraphic=miscgraphics,11
 [obstacle_text]
 type=text
 x=298
-y=270
+y=250
 buttontype=normal
 width=57
 height=14
@@ -1388,7 +1387,7 @@ colour=0xAA8822
 [obstacles]
 type=graphic
 x=272
-y=270
+y=250
 buttontype=normal
 width=14
 height=15
@@ -1400,7 +1399,7 @@ activegraphic=miscgraphics,11
 [no_jewelry_text]
 type=text
 x=61
-y=290
+y=270
 buttontype=normal
 width=61
 height=14
@@ -1436,7 +1435,7 @@ activegraphic=miscgraphics,11
 [no_jewelry]
 type=graphic
 x=36
-y=290
+y=270
 buttontype=normal
 width=14
 height=15
@@ -1445,9 +1444,26 @@ script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
 
-[com_161]
-type=inv
-x=58
-y=58
-width=4
-height=3
+[com_1]
+type=graphic
+x=162
+y=250
+buttontype=normal
+width=14
+height=15
+script1op1=testbit,duel_settings,13
+script1=eq,1
+graphic=miscgraphics,10
+activegraphic=miscgraphics,11
+
+[com_2]
+type=text
+x=188
+y=250
+buttontype=normal
+width=57
+height=14
+font=p12
+shadowed=yes
+text=No Sp. Atk
+colour=0xAA8822
