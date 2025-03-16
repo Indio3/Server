@@ -1,0 +1,159 @@
+// Property 'active' value changed from 'yes' to 'no'
+// Property 'active' value changed from 'no' to 'yes'
+[loc_1588]
+active=yes
+active=no
+recol1s=-1
+recol1d=-1
+model=model_loc_1588
+
+// Property 'op1' value changed from 'Climb=down' to 'Climb-down'
+[loc_2269]
+op1=Climb-down
+model=model_loc_10_8
+name=Ladder
+desc=This leads downwards.
+
+// New property 'forcedecor' with value 'true'
+[wilderness_stepping_stone]
+op1=Jump-from
+active=yes
+forcedecor=true
+model=model_loc_2311_0
+name=Stepping stone
+desc=I can jump from this stepping stone.
+
+// Property 'name' value changed from 'Rocks.' to 'Rocks'
+[wilderness_rocks]
+hillskew=true
+op1=Climb
+ambient=25
+contrast=25
+recol1s=12580
+recol1d=5285
+model=model_loc_2231_0
+name=Rocks
+desc=A rocky outcrop.
+
+// Property 'op1' value changed from 'Operate' to 'Search'
+// Property 'op1' value changed from 'Search' to 'Operate'
+[loc_2934]
+op1=Operate
+width=4
+length=5
+resizex=300
+resizey=300
+resizez=300
+op1=Search
+model=model_loc_2934_8
+name=Winch
+desc=A large scaffold platform most likely used for lifting and lowering heavy items.
+
+// Property 'op1' value changed from 'Operate' to 'Climb-down'
+// Property 'op1' value changed from 'Climb-down' to 'Operate'
+[loc_2935]
+op1=Operate
+width=4
+length=5
+resizex=300
+resizey=300
+resizez=300
+op1=Climb-down
+model=model_loc_2350_8
+name=Winch
+desc=Used to move earth to, and from, the dig shaft. A rope has been thrown over it.
+
+// New property 'op1' with value 'Use'
+[loc_3039]
+length=2
+op1=Use
+model=model_loc_114_8
+name=Range
+desc=Ideal for cooking on.
+
+// New property 'op1' with value 'Use'
+[furnace_tutorial]
+active=yes
+width=3
+length=3
+forceapproach=east
+op1=Use
+model=model_loc_165_8
+name=Furnace
+desc=A hot place for forging things in.
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[ogre_spitroast_raw_chompy]
+width=2
+anim=1017
+hasalpha=true
+blockrange=false
+recol1s=26156
+recol1d=19014
+model=model_ogre_spitroast_with_chompy_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[ogre_spitroast_cooked_chompy]
+width=2
+anim=1017
+hasalpha=true
+blockrange=false
+recol1s=26156
+recol1d=14690
+model=model_ogre_spitroast_with_chompy_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[ogre_spitroast_burnt_chompy]
+width=2
+anim=1017
+hasalpha=true
+blockrange=false
+recol1s=26156
+recol1d=6273
+model=model_ogre_spitroast_with_chompy_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[ogre_spitroast]
+width=2
+anim=1016
+hasalpha=true
+blockrange=false
+model=model_ogre_spitroast_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+
+// Property 'desc' value changed from 'The entrance to Rantz's cave.4' to 'The entrance to Rantz's cave'
+[chompybird_cave_entrance]
+width=3
+length=2
+op1=Enter
+model=model_loc_2_8
+name=Cave entrance
+desc=The entrance to Rantz's cave
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[loc_3382]
+width=2
+anim=1017
+hasalpha=true
+blockrange=false
+model=model_ogre_spitroast_with_chompy_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+
+// Property 'name' value changed from 'Ogre spitroast' to 'Ogre spit-roast'
+[loc_3383]
+width=2
+anim=1017
+hasalpha=true
+blockrange=false
+model=model_ogre_spitroast_with_chompy_8
+name=Ogre spit-roast
+desc=Useful for ogre dinners.
+

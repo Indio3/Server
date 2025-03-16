@@ -1,0 +1,677 @@
+// Property '2dxan' value changed from '340' to '404'
+// Property '2dxan' value changed from '404' to '340'
+[red_vine_worm]
+desc=Wormy.
+model=model_2519_obj
+members=true
+stackable=true
+2dxof=8
+2dyof=11
+2dzoom=990
+2dyan=188
+2dxan=340
+2dxan=404
+recol1s=25096
+recol1d=30753
+name=Red vine worm
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8109]' to 'recols=[6674], recold=[6049]'
+[unstrung_longbow]
+desc=I need to find a string for this.
+cost=60
+members=true
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=15617
+name=Longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8109]' to 'recols=[6674], recold=[6049]'
+[unstrung_shortbow]
+desc=I need to find a string for this.
+cost=23
+members=true
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=15617
+name=Shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8111]' to 'recols=[6674], recold=[8111]'
+[unstrung_oak_shortbow]
+cost=50
+members=true
+desc=An unstrung oak shortbow, I need a bowstring for this.
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=23009
+name=Oak shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8111]' to 'recols=[6674], recold=[8111]'
+[unstrung_oak_longbow]
+cost=80
+members=true
+desc=An unstrung oak longbow, I need a bowstring for this.
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=23009
+name=Oak longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9903]' to 'recols=[6674], recold=[9903]'
+[unstrung_willow_longbow]
+cost=160
+members=true
+desc=An unstrung willow longbow, I need a bowstring for this.
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=20004
+name=Willow longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9903]' to 'recols=[6674], recold=[9903]'
+[unstrung_willow_shortbow]
+cost=100
+members=true
+desc=An unstrung willow shortbow, I need a bowstring for this.
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=20004
+name=Willow shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[2250]' to 'recols=[6674], recold=[2250]'
+[unstrung_maple_longbow]
+cost=320
+members=true
+desc=An unstrung maple longbow, I need a bowstring for this.
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=21040
+name=Maple longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[2250]' to 'recols=[6674], recold=[2250]'
+[unstrung_maple_shortbow]
+cost=200
+members=true
+desc=An unstrung maple shortbow, I need a bowstring for this.
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=21040
+name=Maple shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9135]' to 'recols=[6674], recold=[9135]'
+[unstrung_yew_longbow]
+cost=640
+members=true
+desc=An unstrung yew longbow, I need a bowstring for this.
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=23073
+name=Yew longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9135]' to 'recols=[6674], recold=[9135]'
+[unstrung_yew_shortbow]
+cost=400
+members=true
+desc=An unstrung yew shortbow, I need a bowstring for this.
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=23073
+name=Yew shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[31516]' to 'recols=[6674], recold=[31516]'
+[unstrung_magic_longbow]
+cost=1280
+members=true
+desc=An unstrung magic longbow, I need a bowstring for this.
+model=model_2401_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+recol1s=7330
+recol1d=1451
+name=Magic longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[31516]' to 'recols=[6674], recold=[31516]'
+[unstrung_magic_shortbow]
+cost=800
+members=true
+desc=An unstrung magic shortbow, I need a bowstring for this.
+model=model_2435_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+recol1s=7330
+recol1d=1451
+name=Magic shortbow
+
+// Property 'desc' value changed from 'Used for high level missile spells.' to 'Used for medium level missile spells.'
+[deathrune]
+desc=Used for medium level missile spells.
+stackable=true
+cost=30
+model=model_2645_obj
+2dyof=1
+2dzoom=740
+2dxan=516
+name=Death rune
+
+// Property 'model' value changed from '2657' to '529'
+// Property 'model' value changed from '529' to '2657'
+[grinder]
+model=model_2657_obj
+2dxof=8
+2dyof=65531
+2dzoom=610
+2dyan=532
+zan2d=1844
+2dxan=440
+model=model_529_obj
+manwear=model_529_obj,0
+womanwear=model_529_obj,6
+name=Grinder
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8109]' to 'recols=[6674], recold=[6049]'
+[longbow]
+cost=80
+desc=A nice sturdy bow.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=15617
+name=Longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8109]' to 'recols=[6674], recold=[6049]'
+[shortbow]
+cost=50
+desc=Short but effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=15617
+name=Shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8111]' to 'recols=[6674], recold=[8111]'
+[oak_shortbow]
+cost=100
+desc=A shortbow made out of oak, still effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=23009
+name=Oak shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[8111]' to 'recols=[6674], recold=[8111]'
+[oak_longbow]
+cost=160
+desc=A nice sturdy bow made out of oak.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=23009
+name=Oak longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9903]' to 'recols=[6674], recold=[9903]'
+[willow_longbow]
+members=true
+cost=320
+desc=A nice sturdy bow made out of willow.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=20004
+name=Willow longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9903]' to 'recols=[6674], recold=[9903]'
+[willow_shortbow]
+members=true
+cost=200
+desc=A shortbow made out of willow, still effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=20004
+name=Willow shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[2250]' to 'recols=[6674], recold=[2250]'
+[maple_longbow]
+members=true
+cost=640
+desc=A nice sturdy bow made out of Maple.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=21040
+name=Maple longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[2250]' to 'recols=[6674], recold=[2250]'
+[maple_shortbow]
+members=true
+cost=400
+desc=A shortbow made out of Maple, still effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=21040
+name=Maple shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9135]' to 'recols=[6674], recold=[9135]'
+[yew_longbow]
+members=true
+cost=1280
+desc=A nice sturdy bow made out of yew.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=23073
+name=Yew longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[9135]' to 'recols=[6674], recold=[9135]'
+[yew_shortbow]
+members=true
+cost=800
+desc=A shortbow made out of yew, still effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=23073
+name=Yew shortbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[31516]' to 'recols=[6674], recold=[31516]'
+[magic_longbow]
+members=true
+cost=2560
+desc=A nice sturdy magical bow.
+model=model_2832_obj
+2dxof=2
+2dyof=15
+2dzoom=1820
+2dyan=1004
+2dxan=460
+iop2=Wield
+manwear=model_563_obj_wear,0
+womanwear=model_563_obj_wear,6
+recol1s=7330
+recol1d=1451
+name=Magic longbow
+
+// Property 'recol' value changed from 'recols=[6798], recold=[31516]' to 'recols=[6674], recold=[31516]'
+[magic_shortbow]
+members=true
+cost=1600
+desc=Short and magical, but still effective.
+model=model_2562_obj
+2dxof=7
+2dyof=2
+2dzoom=1200
+2dyan=124
+2dxan=508
+iop2=Wield
+manwear=model_512_obj_wear,0
+womanwear=model_512_obj_wear,6
+recol1s=7330
+recol1d=1451
+name=Magic shortbow
+
+// Property 'desc' value changed from 'A Magical staff.' to 'A highly magical staff.'
+// Property 'desc' value changed from 'A highly magical staff.' to 'A Magical staff.'
+[iban_staff]
+members=true
+model=model_2569_obj
+2dyof=65521
+2dzoom=1640
+2dyan=1464
+2dxan=196
+desc=A Magical staff.
+desc=A highly magical staff.
+cost=42500
+iop2=Wield
+manwear=model_514_obj_wear,0
+womanwear=model_514_obj_wear,6
+name=Staff of iban
+
+// Property 'desc' value changed from 'A metalic key, usually used by prison guards.' to 'A metallic key, usually used by prison guards.'
+[desertrescue_cell_door_key]
+desc=A metallic key, usually used by prison guards.
+cost=1
+model=model_2372_obj
+2dxof=65533
+2dyof=5
+2dzoom=700
+2dyan=20
+2dxan=328
+members=true
+recol1s=31393
+recol1d=15819
+name=Cell door key
+
+// Property 'desc' value changed from 'An experimental type of weapon.' to 'A prototype throwing dart.'
+// Property 'cost' value changed from '70' to '2'
+// Property 'desc' value changed from 'A prototype throwing dart.' to 'An experimental type of weapon.'
+// Property 'cost' value changed from '2' to '70'
+[prototype_dart]
+desc=An experimental type of weapon.
+cost=70
+desc=A prototype throwing dart.
+stackable=true
+members=true
+cost=2
+model=model_2379_obj
+2dxof=8
+2dyof=11
+2dzoom=720
+2dyan=336
+2dxan=396
+recol1s=21140
+recol1d=8354
+name=Prototype dart
+
+// Property 'cost' value changed from '2500' to '3000'
+[blue_dragonhide_vambraces]
+cost=3000
+desc=Made from 100% real dragon hide.
+model=model_2656_obj
+2dxof=7
+2dyof=65503
+2dzoom=740
+2dyan=1784
+2dxan=196
+iop2=Wear
+manwear=model_178_obj_wear,0
+womanwear=model_355_obj_wear,0
+members=true
+recol1s=8420
+recol1d=4232
+recol2s=6306
+recol2d=8460
+recol3s=256
+recol3d=4232
+name=Dragon vambraces
+
+// Property 'cost' value changed from '2500' to '3600'
+[red_dragonhide_vambraces]
+cost=3600
+desc=Made from 100% real dragon hide.
+model=model_2656_obj
+2dxof=7
+2dyof=65503
+2dzoom=740
+2dyan=1784
+2dxan=196
+iop2=Wear
+manwear=model_178_obj_wear,0
+womanwear=model_355_obj_wear,0
+members=true
+recol1s=8420
+recol1d=8192
+recol2s=6306
+recol2d=11363
+recol3s=256
+recol3d=8192
+name=Dragon vambraces
+
+// Property 'cost' value changed from '2500' to '4320'
+[black_dragonhide_vambraces]
+cost=4320
+desc=Made from 100% real dragon hide.
+model=model_2656_obj
+2dxof=7
+2dyof=65503
+2dzoom=740
+2dyan=1784
+2dxan=196
+iop2=Wear
+manwear=model_178_obj_wear,0
+womanwear=model_355_obj_wear,0
+members=true
+recol1s=8420
+recol1d=1057
+recol2s=6306
+recol2d=4228
+recol3s=256
+recol3d=1057
+name=Dragon vambraces
+
+// Property 'cost' value changed from '3900' to '4320'
+[blue_dragonhide_chaps]
+cost=4320
+desc=Made from 100% real dragon hide.
+model=model_2507_obj
+2dxof=7
+2dyof=5
+2dzoom=1720
+zan2d=224
+2dxan=488
+iop2=Wear
+manwear=model_258_obj_wear,0
+womanwear=model_423_obj_wear,0
+members=true
+recol1s=256
+recol1d=4232
+recol2s=384
+recol2d=8460
+name=Dragonhide chaps
+
+// Property 'cost' value changed from '3900' to '5180'
+[red_dragonhide_chaps]
+cost=5180
+desc=Made from 100% real dragon hide.
+model=model_2507_obj
+2dxof=7
+2dyof=5
+2dzoom=1720
+zan2d=224
+2dxan=488
+iop2=Wear
+manwear=model_258_obj_wear,0
+womanwear=model_423_obj_wear,0
+members=true
+recol1s=256
+recol1d=8192
+recol2s=384
+recol2d=11363
+name=Dragonhide chaps
+
+// Property 'cost' value changed from '3900' to '6220'
+[black_dragonhide_chaps]
+cost=6220
+desc=Made from 100% real dragon hide.
+model=model_2507_obj
+2dxof=7
+2dyof=5
+2dzoom=1720
+zan2d=224
+2dxan=488
+iop2=Wear
+manwear=model_258_obj_wear,0
+womanwear=model_423_obj_wear,0
+members=true
+recol1s=256
+recol1d=1057
+recol2s=384
+recol2d=4228
+name=Dragonhide chaps
+
+// Property 'cost' value changed from '7800' to '9360'
+[blue_dragonhide_body]
+cost=9360
+desc=Made from 100% real dragon hide.
+model=model_2745_obj
+2dxof=3
+2dyof=65532
+2dzoom=890
+2dyan=8
+zan2d=68
+2dxan=452
+iop2=Wear
+manwear=model_314_obj_wear,0
+womanwear=model_477_obj_wear,0
+members=true
+recol1s=256
+recol1d=4232
+recol2s=384
+recol2d=8460
+name=Dragonhide body
+
+// Property 'cost' value changed from '7800' to '11230'
+[red_dragonhide_body]
+cost=11230
+desc=Made from 100% real dragon hide.
+model=model_2745_obj
+2dxof=3
+2dyof=65532
+2dzoom=890
+2dyan=8
+zan2d=68
+2dxan=452
+iop2=Wear
+manwear=model_314_obj_wear,0
+womanwear=model_477_obj_wear,0
+members=true
+recol1s=256
+recol1d=8192
+recol2s=384
+recol2d=11363
+name=Dragonhide body
+
+// Property 'cost' value changed from '7800' to '13480'
+[black_dragonhide_body]
+cost=13480
+desc=Made from 100% real dragon hide.
+model=model_2745_obj
+2dxof=3
+2dyof=65532
+2dzoom=890
+2dyan=8
+zan2d=68
+2dxan=452
+iop2=Wear
+manwear=model_314_obj_wear,0
+womanwear=model_477_obj_wear,0
+members=true
+recol1s=256
+recol1d=1057
+recol2s=384
+recol2d=4228
+name=Dragonhide body
+
