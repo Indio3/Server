@@ -269,7 +269,7 @@ font=p11
 text=(Slash)
 colour=0xFFFF00
 
-[com_0]
+[com_244_0]
 type=layer
 x=17
 y=231
@@ -277,8 +277,8 @@ width=158
 height=24
 hide=yes
 
-[com_1]
-layer=com_0
+[com_244_1]
+layer=com_244_0
 type=rect
 x=0
 y=1
@@ -288,8 +288,8 @@ height=23
 colour=0xFFFF00
 option=Use @gre@Special Attack
 
-[com_2]
-layer=com_0
+[com_244_2]
+layer=com_244_0
 type=graphic
 x=131
 y=1
@@ -297,8 +297,8 @@ width=25
 height=30
 graphic=steelborder,1
 
-[com_3]
-layer=com_0
+[com_244_3]
+layer=com_244_0
 type=graphic
 x=0
 y=1
@@ -306,8 +306,8 @@ width=25
 height=30
 graphic=steelborder,0
 
-[com_4]
-layer=com_0
+[com_244_4]
+layer=com_244_0
 type=graphic
 x=6
 y=-15
@@ -315,8 +315,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_5]
-layer=com_0
+[com_244_5]
+layer=com_244_0
 type=graphic
 x=42
 y=-15
@@ -324,8 +324,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_6]
-layer=com_0
+[com_244_6]
+layer=com_244_0
 type=graphic
 x=78
 y=-15
@@ -333,8 +333,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_7]
-layer=com_0
+[com_244_7]
+layer=com_244_0
 type=graphic
 x=114
 y=-15
@@ -342,8 +342,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_8]
-layer=com_0
+[com_244_8]
+layer=com_244_0
 type=graphic
 x=5
 y=3
@@ -351,8 +351,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_9]
-layer=com_0
+[com_244_9]
+layer=com_244_0
 type=graphic
 x=41
 y=3
@@ -360,8 +360,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_10]
-layer=com_0
+[com_244_10]
+layer=com_244_0
 type=graphic
 x=77
 y=3
@@ -369,8 +369,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_11]
-layer=com_0
+[com_244_11]
+layer=com_244_0
 type=graphic
 x=112
 y=3
@@ -378,8 +378,8 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_12]
-layer=com_0
+[com_244_12]
+layer=com_244_0
 type=graphic
 x=115
 y=3
@@ -387,19 +387,19 @@ width=36
 height=36
 graphic=miscgraphics,3
 
-[com_13]
-layer=com_0
+[com_244_13]
+layer=com_244_0
 type=model
 x=5
 y=8
 width=146
 height=9
-model=undefined
+model=model_com_3476
 zoom=1153
 xan=500
 
-[com_14]
-layer=com_0
+[com_244_14]
+layer=com_244_0
 type=model
 x=3
 y=8
@@ -407,12 +407,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,99
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_15]
-layer=com_0
+[com_244_15]
+layer=com_244_0
 type=model
 x=18
 y=8
@@ -420,12 +420,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,199
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_16]
-layer=com_0
+[com_244_16]
+layer=com_244_0
 type=model
 x=33
 y=8
@@ -433,12 +433,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,299
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_17]
-layer=com_0
+[com_244_17]
+layer=com_244_0
 type=model
 x=47
 y=8
@@ -446,12 +446,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,399
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_18]
-layer=com_0
+[com_244_18]
+layer=com_244_0
 type=model
 x=61
 y=8
@@ -459,12 +459,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,499
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_19]
-layer=com_0
+[com_244_19]
+layer=com_244_0
 type=model
 x=75
 y=8
@@ -472,12 +472,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,599
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_20]
-layer=com_0
+[com_244_20]
+layer=com_244_0
 type=model
 x=90
 y=8
@@ -485,12 +485,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,699
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_21]
-layer=com_0
+[com_244_21]
+layer=com_244_0
 type=model
 x=104
 y=8
@@ -498,12 +498,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,799
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_22]
-layer=com_0
+[com_244_22]
+layer=com_244_0
 type=model
 x=118
 y=8
@@ -511,12 +511,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,899
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_23]
-layer=com_0
+[com_244_23]
+layer=com_244_0
 type=model
 x=132
 y=8
@@ -524,12 +524,12 @@ width=146
 height=9
 script1op1=pushvar,varp_300
 script1=gt,999
-model=undefined
+model=model_com_3475
 zoom=1153
 xan=500
 
-[com_24]
-layer=com_0
+[com_244_24]
+layer=com_244_0
 type=text
 x=20
 y=7

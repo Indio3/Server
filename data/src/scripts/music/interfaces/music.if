@@ -2794,7 +2794,7 @@ text=Understanding
 colour=0xFF0000
 activecolour=0x00FF00
 
-[com_0]
+[com_244_0]
 layer=com_0
 type=text
 x=10
@@ -2810,7 +2810,7 @@ text=Stratosphere
 colour=0xFF0000
 activecolour=0x00FF00
 
-[com_1]
+[com_244_1]
 layer=com_0
 type=text
 x=10

@@ -1244,7 +1244,7 @@ width=36
 height=36
 graphic=steelborder2,0
 
-[com_0]
+[com_244_0]
 type=inv
 x=9
 y=16
@@ -1444,7 +1444,7 @@ script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
 
-[com_1]
+[com_244_1]
 type=graphic
 x=162
 y=250
@@ -1456,7 +1456,7 @@ script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
 
-[com_2]
+[com_244_2]
 type=text
 x=188
 y=250

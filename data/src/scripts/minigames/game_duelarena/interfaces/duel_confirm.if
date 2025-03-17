@@ -1465,7 +1465,7 @@ y=130
 width=32
 height=32
 
-[com_0]
+[com_244_0]
 type=graphic
 x=162
 y=250
@@ -1476,7 +1476,7 @@ script1=eq,1
 graphic=miscgraphics,10
 activegraphic=miscgraphics,11
 
-[com_1]
+[com_244_1]
 type=text
 x=188
 y=250
