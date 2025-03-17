@@ -227,7 +227,7 @@ export function packInterface(server: boolean) {
 
     // ----
 
-    const data = Packet.alloc(4);
+    const data = Packet.alloc(5);
 
     let lastRoot = null;
     data.p2(InterfacePack.size);
@@ -264,6 +264,7 @@ export function packInterface(server: boolean) {
         data.p2(parseInt(src.clientcode as string));
         data.p2(parseInt(src.width as string));
         data.p2(parseInt(src.height as string));
+        data.p1(parseInt(src.alpha as string));
 
         if (src.overlayer) {
             const layerId = InterfacePack.getByName(`${com.root}:${src.overlayer}`);
@@ -420,7 +421,7 @@ export function packInterface(server: boolean) {
             data.p2(parseInt(src.scroll as string));
             data.pbool(src.hide === 'yes');
 
-            data.p1(com.children.length);
+            data.p2(com.children.length);
             for (let j = 0; j < com.children.length; j++) {
                 const childId = com.children[j];
                 data.p2(childId);

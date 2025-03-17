@@ -53,7 +53,7 @@ while (dat.available > 0) {
     com.clientCode = dat.g2();
     com.width = dat.g2();
     com.height = dat.g2();
-    // com.alpha = dat.g1(); // 317
+    com.alpha = dat.g1();
 
     com.overLayer = dat.g1();
     if (com.overLayer == 0) {
@@ -91,8 +91,7 @@ while (dat.available > 0) {
         com.scroll = dat.g2();
         com.hide = dat.gbool();
 
-        const childCount = dat.g1();
-        // let childCount = dat.g2(); // 317
+        const childCount = dat.g2();
         com.childId = [];
         com.childX = [];
         com.childY = [];
