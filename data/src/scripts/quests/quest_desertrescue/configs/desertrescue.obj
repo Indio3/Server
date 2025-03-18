@@ -17,7 +17,7 @@ tradeable=no
 
 [desertrescue_cell_door_key]
 name=Cell door key
-desc=A metalic key, usually used by prison guards.
+desc=A metallic key, usually used by prison guards.
 cost=1
 weight=10g
 model=model_2372_obj

@@ -73,7 +73,7 @@ category=category_149
 
 [deathrune]
 name=Death rune
-desc=Used for high level missile spells.
+desc=Used for medium level missile spells.
 stackable=yes
 cost=30
 model=model_2645_obj
