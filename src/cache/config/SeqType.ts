@@ -85,6 +85,9 @@ export default class SeqType extends ConfigType {
     mainhand: number = -1;
     offhand: number = -1;
     replaycount: number = 99;
+    preanimMove: number = -1;
+    postanimMove: number = -1;
+    restartMode: number = 0;
 
     duration: number = 0;
 
@@ -135,6 +138,12 @@ export default class SeqType extends ConfigType {
             this.offhand = dat.g2();
         } else if (code === 8) {
             this.replaycount = dat.g1();
+        } else if (code === 9) {
+            this.preanimMove = dat.g1();
+        } else if (code === 10) {
+            this.postanimMove = dat.g1();
+        } else if (code === 11) {
+            this.restartMode = dat.g1();
         } else if (code === 250) {
             this.debugname = dat.gjstr();
         } else {

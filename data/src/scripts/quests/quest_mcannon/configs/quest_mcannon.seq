@@ -1,4 +1,5 @@
 [cannon_west]
+replayoff=1
 frame1=anim_3210
 frame2=anim_3073
 frame3=anim_3098
@@ -12,6 +13,7 @@ frame10=anim_3086
 frame11=anim_3109
 
 [cannon_north_west]
+replayoff=1
 frame1=anim_3177
 frame2=anim_3201
 frame3=anim_3224
@@ -26,6 +28,7 @@ frame11=anim_3077
 frame12=anim_3101
 
 [cannon_north]
+replayoff=1
 frame1=anim_3171
 frame2=anim_3195
 frame3=anim_3218
@@ -40,6 +43,7 @@ frame11=anim_3155
 frame12=anim_3180
 
 [cannon_north_east]
+replayoff=1
 frame1=anim_3103
 frame2=anim_3124
 frame3=anim_3147
@@ -54,6 +58,7 @@ frame11=anim_3164
 frame12=anim_3188
 
 [cannon_east]
+replayoff=1
 frame1=anim_3072
 frame2=anim_3097
 frame3=anim_3121
@@ -68,6 +73,7 @@ frame11=anim_3187
 frame12=anim_3209
 
 [cannon_south_east]
+replayoff=1
 frame1=anim_3159
 frame2=anim_3184
 frame3=anim_3207
@@ -82,6 +88,7 @@ frame11=anim_3191
 frame12=anim_3213
 
 [cannon_south]
+replayoff=1
 frame1=anim_3230
 frame2=anim_3095
 frame3=anim_3119
@@ -95,6 +102,7 @@ frame10=anim_3156
 frame11=anim_3181
 
 [cannon_south_west]
+replayoff=1
 frame1=anim_3082
 frame2=anim_3106
 frame3=anim_3127
