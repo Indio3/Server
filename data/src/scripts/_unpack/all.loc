@@ -11587,7 +11587,7 @@ op1=Climb-up
 name=Ladder
 desc=This leads downwards.
 model=model_loc_10
-op1=Climb=down
+op1=Climb-down
 
 [zqdoorhideplant]
 model=model_loc_1184
@@ -14664,6 +14664,7 @@ name=Range
 desc=Ideal for cooking on.
 model=model_loc_114
 length=2
+op1=Use
 
 [loc_3040]
 name=Cupboard
@@ -15913,7 +15914,7 @@ length=2
 mapscene=0
 
 [ogre_spitroast_raw_chompy]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast_with_chompy
 width=2
@@ -15924,7 +15925,7 @@ recol1s=26156
 recol1d=19014
 
 [ogre_spitroast_cooked_chompy]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast_with_chompy
 width=2
@@ -15935,7 +15936,7 @@ recol1s=26156
 recol1d=14690
 
 [ogre_spitroast_burnt_chompy]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast_with_chompy
 width=2
@@ -15946,7 +15947,7 @@ recol1s=26156
 recol1d=6273
 
 [ogre_spitroast]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast
 width=2
@@ -15981,7 +15982,7 @@ width=2
 op1=Search
 
 [loc_3382]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast_with_chompy
 width=2
@@ -15990,7 +15991,7 @@ hasalpha=yes
 blockrange=no
 
 [loc_3383]
-name=Ogre spitroast
+name=Ogre spit-roast
 desc=Useful for ogre dinners.
 model=model_ogre_spitroast_with_chompy
 width=2

@@ -16,7 +16,7 @@ recol1d=1418
 
 [chompybird_cave_entrance]
 name=Cave entrance
-desc=The entrance to Rantz's cave.4
+desc=The entrance to Rantz's cave
 model=model_loc_2
 width=3
 length=2

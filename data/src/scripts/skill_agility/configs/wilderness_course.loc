@@ -48,6 +48,7 @@ desc=I can jump from this stepping stone.
 model=model_loc_2311
 op1=Jump-from
 active=yes
+forcedecor=true
 
 [wilderness_log_balance]
 name=Log balance
@@ -58,7 +59,7 @@ active=yes
 sharelight=yes
 
 [wilderness_rocks]
-name=Rocks.
+name=Rocks
 desc=A rocky outcrop.
 model=model_loc_2231
 hillskew=yes

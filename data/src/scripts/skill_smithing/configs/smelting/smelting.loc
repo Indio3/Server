@@ -37,6 +37,7 @@ active=yes
 width=3
 length=3
 forceapproach=east
+op1=Use
 category=smithing_furnace
 
 [furnace_legends]
