@@ -381,9 +381,21 @@ scope=perm
 [ring_of_forging]
 scope=perm
 
+[varp_295]
+
+[varp_296]
+
+[varp_297]
+
 [varp_298]
+transmit=yes
 
-[varp_300]
+[varp_299]
+
+[sa_energy]
 scope=perm
+transmit=yes
 
-[varp_301]
+[sa_enabled]
+type=boolean
+transmit=yes

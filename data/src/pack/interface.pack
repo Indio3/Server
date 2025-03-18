@@ -7460,7 +7460,7 @@
 7459=questlist:com_244_0
 7460=music:com_244_0
 7461=music:com_244_1
-7462=combat_blunt:com_244_1
+7462=combat_blunt:specbar_toggle
 7463=combat_blunt:com_244_2
 7464=combat_blunt:com_244_3
 7465=combat_blunt:com_244_4
@@ -7472,7 +7472,7 @@
 7471=combat_blunt:com_244_10
 7472=combat_blunt:com_244_11
 7473=combat_blunt:com_244_12
-7474=combat_blunt:com_244_0
+7474=combat_blunt:specbar
 7475=combat_blunt:com_244_13
 7476=combat_blunt:com_244_14
 7477=combat_blunt:com_244_15
@@ -7485,7 +7485,7 @@
 7484=combat_blunt:com_244_22
 7485=combat_blunt:com_244_23
 7486=combat_blunt:com_244_24
-7487=combat_axe:com_244_1
+7487=combat_axe:specbar_toggle
 7488=combat_axe:com_244_2
 7489=combat_axe:com_244_3
 7490=combat_axe:com_244_4
@@ -7497,7 +7497,7 @@
 7496=combat_axe:com_244_10
 7497=combat_axe:com_244_11
 7498=combat_axe:com_244_12
-7499=combat_axe:com_244_0
+7499=combat_axe:specbar
 7500=combat_axe:com_244_13
 7501=combat_axe:com_244_14
 7502=combat_axe:com_244_15
@@ -7510,7 +7510,7 @@
 7509=combat_axe:com_244_22
 7510=combat_axe:com_244_23
 7511=combat_axe:com_244_24
-7512=combat_crossbow:com_244_1
+7512=combat_crossbow:specbar_toggle
 7513=combat_crossbow:com_244_2
 7514=combat_crossbow:com_244_3
 7515=combat_crossbow:com_244_4
@@ -7522,7 +7522,7 @@
 7521=combat_crossbow:com_244_10
 7522=combat_crossbow:com_244_11
 7523=combat_crossbow:com_244_12
-7524=combat_crossbow:com_244_0
+7524=combat_crossbow:specbar
 7525=combat_crossbow:com_244_13
 7526=combat_crossbow:com_244_14
 7527=combat_crossbow:com_244_15
@@ -7535,7 +7535,7 @@
 7534=combat_crossbow:com_244_22
 7535=combat_crossbow:com_244_23
 7536=combat_crossbow:com_244_24
-7537=combat_bow:com_244_1
+7537=combat_bow:specbar_toggle
 7538=combat_bow:com_244_2
 7539=combat_bow:com_244_3
 7540=combat_bow:com_244_4
@@ -7547,7 +7547,7 @@
 7546=combat_bow:com_244_10
 7547=combat_bow:com_244_11
 7548=combat_bow:com_244_12
-7549=combat_bow:com_244_0
+7549=combat_bow:specbar
 7550=combat_bow:com_244_13
 7551=combat_bow:com_244_14
 7552=combat_bow:com_244_15
@@ -7560,7 +7560,7 @@
 7559=combat_bow:com_244_22
 7560=combat_bow:com_244_23
 7561=combat_bow:com_244_24
-7562=combat_stabsword:com_244_1
+7562=combat_stabsword:specbar_toggle
 7563=combat_stabsword:com_244_2
 7564=combat_stabsword:com_244_3
 7565=combat_stabsword:com_244_4
@@ -7572,7 +7572,7 @@
 7571=combat_stabsword:com_244_10
 7572=combat_stabsword:com_244_11
 7573=combat_stabsword:com_244_12
-7574=combat_stabsword:com_244_0
+7574=combat_stabsword:specbar
 7575=combat_stabsword:com_244_13
 7576=combat_stabsword:com_244_14
 7577=combat_stabsword:com_244_15
@@ -7585,7 +7585,7 @@
 7584=combat_stabsword:com_244_22
 7585=combat_stabsword:com_244_23
 7586=combat_stabsword:com_244_24
-7587=combat_hacksword:com_244_1
+7587=combat_hacksword:specbar_toggle
 7588=combat_hacksword:com_244_2
 7589=combat_hacksword:com_244_3
 7590=combat_hacksword:com_244_4
@@ -7597,7 +7597,7 @@
 7596=combat_hacksword:com_244_10
 7597=combat_hacksword:com_244_11
 7598=combat_hacksword:com_244_12
-7599=combat_hacksword:com_244_0
+7599=combat_hacksword:specbar
 7600=combat_hacksword:com_244_13
 7601=combat_hacksword:com_244_14
 7602=combat_hacksword:com_244_15
@@ -7610,7 +7610,7 @@
 7609=combat_hacksword:com_244_22
 7610=combat_hacksword:com_244_23
 7611=combat_hacksword:com_244_24
-7612=combat_spiked:com_244_1
+7612=combat_spiked:specbar_toggle
 7613=combat_spiked:com_244_2
 7614=combat_spiked:com_244_3
 7615=combat_spiked:com_244_4
@@ -7622,7 +7622,7 @@
 7621=combat_spiked:com_244_10
 7622=combat_spiked:com_244_11
 7623=combat_spiked:com_244_12
-7624=combat_spiked:com_244_0
+7624=combat_spiked:specbar
 7625=combat_spiked:com_244_13
 7626=combat_spiked:com_244_14
 7627=combat_spiked:com_244_15
@@ -7635,7 +7635,7 @@
 7634=combat_spiked:com_244_22
 7635=combat_spiked:com_244_23
 7636=combat_spiked:com_244_24
-7637=combat_thrown:com_244_1
+7637=combat_thrown:specbar_toggle
 7638=combat_thrown:com_244_2
 7639=combat_thrown:com_244_3
 7640=combat_thrown:com_244_4
@@ -7647,7 +7647,7 @@
 7646=combat_thrown:com_244_10
 7647=combat_thrown:com_244_11
 7648=combat_thrown:com_244_12
-7649=combat_thrown:com_244_0
+7649=combat_thrown:specbar
 7650=combat_thrown:com_244_13
 7651=combat_thrown:com_244_14
 7652=combat_thrown:com_244_15
@@ -7660,7 +7660,7 @@
 7659=combat_thrown:com_244_22
 7660=combat_thrown:com_244_23
 7661=combat_thrown:com_244_24
-7662=combat_spear:com_244_1
+7662=combat_spear:specbar_toggle
 7663=combat_spear:com_244_2
 7664=combat_spear:com_244_3
 7665=combat_spear:com_244_4
@@ -7672,7 +7672,7 @@
 7671=combat_spear:com_244_10
 7672=combat_spear:com_244_11
 7673=combat_spear:com_244_12
-7674=combat_spear:com_244_0
+7674=combat_spear:specbar
 7675=combat_spear:com_244_13
 7676=combat_spear:com_244_14
 7677=combat_spear:com_244_15
@@ -7685,7 +7685,7 @@
 7684=combat_spear:com_244_22
 7685=combat_spear:com_244_23
 7686=combat_spear:com_244_24
-7687=combat_heavysword:com_244_1
+7687=combat_heavysword:specbar_toggle
 7688=combat_heavysword:com_244_2
 7689=combat_heavysword:com_244_3
 7690=combat_heavysword:com_244_4
@@ -7697,7 +7697,7 @@
 7696=combat_heavysword:com_244_10
 7697=combat_heavysword:com_244_11
 7698=combat_heavysword:com_244_12
-7699=combat_heavysword:com_244_0
+7699=combat_heavysword:specbar
 7700=combat_heavysword:com_244_13
 7701=combat_heavysword:com_244_14
 7702=combat_heavysword:com_244_15
@@ -7710,7 +7710,7 @@
 7709=combat_heavysword:com_244_22
 7710=combat_heavysword:com_244_23
 7711=combat_heavysword:com_244_24
-7712=combat_pickaxe:com_244_1
+7712=combat_pickaxe:specbar_toggle
 7713=combat_pickaxe:com_244_2
 7714=combat_pickaxe:com_244_3
 7715=combat_pickaxe:com_244_4
@@ -7722,7 +7722,7 @@
 7721=combat_pickaxe:com_244_10
 7722=combat_pickaxe:com_244_11
 7723=combat_pickaxe:com_244_12
-7724=combat_pickaxe:com_244_0
+7724=combat_pickaxe:specbar
 7725=combat_pickaxe:com_244_13
 7726=combat_pickaxe:com_244_14
 7727=combat_pickaxe:com_244_15
@@ -7735,7 +7735,7 @@
 7734=combat_pickaxe:com_244_22
 7735=combat_pickaxe:com_244_23
 7736=combat_pickaxe:com_244_24
-7737=combat_unarmed:com_244_1
+7737=combat_unarmed:specbar_toggle
 7738=combat_unarmed:com_244_2
 7739=combat_unarmed:com_244_3
 7740=combat_unarmed:com_244_4
@@ -7747,7 +7747,7 @@
 7746=combat_unarmed:com_244_10
 7747=combat_unarmed:com_244_11
 7748=combat_unarmed:com_244_12
-7749=combat_unarmed:com_244_0
+7749=combat_unarmed:specbar
 7750=combat_unarmed:com_244_13
 7751=combat_unarmed:com_244_14
 7752=combat_unarmed:com_244_15

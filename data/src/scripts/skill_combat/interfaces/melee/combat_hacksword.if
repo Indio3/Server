@@ -269,7 +269,7 @@ font=p11
 text=(Slash)
 colour=0xFFFF00
 
-[com_244_0]
+[specbar]
 type=layer
 x=17
 y=231
@@ -277,8 +277,8 @@ width=158
 height=24
 hide=yes
 
-[com_244_1]
-layer=com_244_0
+[specbar_toggle]
+layer=specbar
 type=rect
 x=0
 y=1
@@ -289,7 +289,7 @@ colour=0xFFFF00
 option=Use @gre@Special Attack
 
 [com_244_2]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=131
 y=1
@@ -298,7 +298,7 @@ height=30
 graphic=steelborder,1
 
 [com_244_3]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=0
 y=1
@@ -307,7 +307,7 @@ height=30
 graphic=steelborder,0
 
 [com_244_4]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=6
 y=-15
@@ -316,7 +316,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_5]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=42
 y=-15
@@ -325,7 +325,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_6]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=78
 y=-15
@@ -334,7 +334,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_7]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=114
 y=-15
@@ -343,7 +343,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_8]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=5
 y=3
@@ -352,7 +352,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_9]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=41
 y=3
@@ -361,7 +361,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_10]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=77
 y=3
@@ -370,7 +370,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_11]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=112
 y=3
@@ -379,7 +379,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_12]
-layer=com_244_0
+layer=specbar
 type=graphic
 x=115
 y=3
@@ -388,7 +388,7 @@ height=36
 graphic=miscgraphics,3
 
 [com_244_13]
-layer=com_244_0
+layer=specbar
 type=model
 x=5
 y=8
@@ -399,143 +399,143 @@ zoom=1153
 xan=500
 
 [com_244_14]
-layer=com_244_0
+layer=specbar
 type=model
 x=3
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,99
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_15]
-layer=com_244_0
+layer=specbar
 type=model
 x=18
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,199
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_16]
-layer=com_244_0
+layer=specbar
 type=model
 x=33
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,299
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_17]
-layer=com_244_0
+layer=specbar
 type=model
 x=47
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,399
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_18]
-layer=com_244_0
+layer=specbar
 type=model
 x=61
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,499
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_19]
-layer=com_244_0
+layer=specbar
 type=model
 x=75
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,599
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_20]
-layer=com_244_0
+layer=specbar
 type=model
 x=90
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,699
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_21]
-layer=com_244_0
+layer=specbar
 type=model
 x=104
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,799
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_22]
-layer=com_244_0
+layer=specbar
 type=model
 x=118
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,899
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_23]
-layer=com_244_0
+layer=specbar
 type=model
 x=132
 y=8
 width=146
 height=9
-script1op1=pushvar,varp_300
+script1op1=pushvar,sa_energy
 script1=gt,999
 model=model_com_3475
 zoom=1153
 xan=500
 
 [com_244_24]
-layer=com_244_0
+layer=specbar
 type=text
 x=20
 y=7
 width=117
 height=11
-script1op1=pushvar,varp_301
+script1op1=pushvar,sa_enabled
 script1=gt,0
 font=p11
 text=S P E C I A L  A T T A C K
