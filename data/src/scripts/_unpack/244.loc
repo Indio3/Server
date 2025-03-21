@@ -18,26 +18,26 @@ desc=A good source of books!
 [loc_3390]
 active=yes
 op1=Push
-model=model_loc_3209_1
+model=model_loc_3209
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
 
 [loc_3391]
 active=yes
 op1=Push
-model=model_loc_3211_1
+model=model_loc_3211
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
 
 [loc_3392]
 active=yes
-model=model_loc_3209_1
+model=model_loc_3209
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
 
 [loc_3393]
 active=yes
-model=model_loc_3211_1
+model=model_loc_3211
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
 
@@ -254,7 +254,7 @@ recol1s=5248
 recol1d=10467
 recol2s=4228
 recol2d=5250
-model=model_loc_1872_q
+model=model_loc_1872
 
 [loc_3419]
 ambient=20
