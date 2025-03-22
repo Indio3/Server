@@ -256,6 +256,9 @@ export default class PlayerInfoEncoder extends MessageEncoder<PlayerInfo> {
             const z: number = CoordGrid.zoneOrigin(player.originZ);
             renderer.writeExactmove(updates, other.exactStartX - x, other.exactStartZ - z, other.exactEndX - x, other.exactEndZ - z, other.exactMoveStart, other.exactMoveEnd, other.exactMoveDirection);
         }
+        if (masks & InfoProt.PLAYER_DAMAGE2.id) {
+            renderer.write(updates, pid, InfoProt.PLAYER_DAMAGE2);
+        }
     }
 
     private willFit(bytes: number, buf: Packet, bitsToAdd: number, bytesToAdd: number): boolean {

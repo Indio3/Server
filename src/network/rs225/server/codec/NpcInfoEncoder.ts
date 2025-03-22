@@ -174,6 +174,9 @@ export default class NpcInfoEncoder extends MessageEncoder<NpcInfo> {
 
     private writeBlocks(updates: Packet, renderer: NpcRenderer, nid: number, masks: number): void {
         renderer.write1(updates, masks);
+        if (masks & InfoProt.NPC_DAMAGE2.id) {
+            renderer.write(updates, nid, InfoProt.NPC_DAMAGE2);
+        }
         if (masks & InfoProt.NPC_ANIM.id) {
             renderer.write(updates, nid, InfoProt.NPC_ANIM);
         }

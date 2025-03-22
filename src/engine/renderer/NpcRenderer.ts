@@ -18,6 +18,7 @@ export default class NpcRenderer extends Renderer<Npc> {
                 [InfoProt.NPC_FACE_ENTITY, new Map()],
                 [InfoProt.NPC_SAY, new Map()],
                 [InfoProt.NPC_DAMAGE, new Map()],
+                [InfoProt.NPC_DAMAGE2, new Map()],
                 [InfoProt.NPC_CHANGE_TYPE, new Map()],
                 [InfoProt.NPC_SPOTANIM, new Map()],
                 [InfoProt.NPC_FACE_COORD, new Map()]
@@ -35,7 +36,10 @@ export default class NpcRenderer extends Renderer<Npc> {
 
         let lows: number = 0;
         let highs: number = 0;
-
+        
+        if (masks & InfoProt.NPC_DAMAGE2.id) {
+            highs += this.cache(nid, new NpcInfoDamage(npc.damageTaken2, npc.damageType2, npc.levels[NpcStat.HITPOINTS], npc.baseLevels[NpcStat.HITPOINTS]), InfoProt.NPC_DAMAGE2);
+        }
         if (masks & InfoProt.NPC_ANIM.id) {
             highs += this.cache(nid, new NpcInfoAnim(npc.animId, npc.animDelay), InfoProt.NPC_ANIM);
         }
@@ -81,5 +85,6 @@ export default class NpcRenderer extends Renderer<Npc> {
         this.caches.get(InfoProt.NPC_CHANGE_TYPE)?.clear();
         this.caches.get(InfoProt.NPC_SPOTANIM)?.clear();
         this.caches.get(InfoProt.NPC_FACE_COORD)?.clear();
+        this.caches.get(InfoProt.NPC_DAMAGE2)?.clear();
     }
 }

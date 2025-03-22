@@ -25,6 +25,7 @@ export default class PlayerRenderer extends Renderer<Player> {
                 [InfoProt.PLAYER_FACE_ENTITY, new Map()],
                 [InfoProt.PLAYER_SAY, new Map()],
                 [InfoProt.PLAYER_DAMAGE, new Map()],
+                [InfoProt.PLAYER_DAMAGE2, new Map()],
                 [InfoProt.PLAYER_FACE_COORD, new Map()],
                 [InfoProt.PLAYER_CHAT, new Map()],
                 [InfoProt.PLAYER_SPOTANIM, new Map()]
@@ -77,6 +78,9 @@ export default class PlayerRenderer extends Renderer<Player> {
         if (masks & InfoProt.PLAYER_EXACT_MOVE.id) {
             highs += InfoProt.PLAYER_EXACT_MOVE.length;
         }
+        if (masks & InfoProt.PLAYER_DAMAGE2.id) {
+            highs += this.cache(pid, new PlayerInfoDamage(player.damageTaken2, player.damageType2, player.levels[PlayerStat.HITPOINTS], player.baseLevels[PlayerStat.HITPOINTS]), InfoProt.PLAYER_DAMAGE2);
+        }
 
         if (highs > 0) {
             this.highs.set(pid, highs + this.header(masks));
@@ -106,6 +110,7 @@ export default class PlayerRenderer extends Renderer<Player> {
         this.caches.get(InfoProt.PLAYER_FACE_COORD)?.clear();
         this.caches.get(InfoProt.PLAYER_SPOTANIM)?.clear();
         this.caches.get(InfoProt.PLAYER_CHAT)?.clear();
+        this.caches.get(InfoProt.PLAYER_DAMAGE2)?.clear();
     }
 
     removePermanent(pid: number) {

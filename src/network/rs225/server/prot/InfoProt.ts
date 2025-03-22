@@ -11,7 +11,9 @@ export default class InfoProt extends ServerProt {
     static readonly PLAYER_BIG_UPDATE = new InfoProt(0x80, 1);
     static readonly PLAYER_SPOTANIM = new InfoProt(0x100, 6);
     static readonly PLAYER_EXACT_MOVE = new InfoProt(0x200, 9);
-
+    static readonly PLAYER_DAMAGE2 = new InfoProt(0x400, 4);
+    
+    static readonly NPC_DAMAGE2 = new InfoProt(0x1, 4);
     static readonly NPC_ANIM = new InfoProt(0x2, 3);
     static readonly NPC_FACE_ENTITY = new InfoProt(0x4, 2);
     static readonly NPC_SAY = new InfoProt(0x8, -2);
