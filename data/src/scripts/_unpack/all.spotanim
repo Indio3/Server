@@ -1791,8 +1791,8 @@ anim=seq_1055
 hasalpha=true
 ambient=60
 contrast=60
-recol1s=11218
-recol1d=964
+recol1s=31658
+recol1d=30819
 
 [spotanim_247]
 model=model_loc_740_8
@@ -1800,8 +1800,8 @@ anim=seq_1055
 hasalpha=true
 ambient=60
 contrast=60
-recol1s=11218
-recol1d=42572
+recol1s=31658
+recol1d=11674
 
 [spotanim_248]
 model=model_spotanim_248
@@ -1869,8 +1869,8 @@ anim=seq_1070
 hasalpha=true
 ambient=60
 contrast=60
-recol1s=61
-recol1d=36133
+recol1s=15855
+recol1d=6476
 
 [spotanim_259]
 
