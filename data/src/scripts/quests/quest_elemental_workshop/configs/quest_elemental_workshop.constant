@@ -1,0 +1,7 @@
+^elemental_workshop_read_book = 1
+^elemental_workshop_slashed_book = 2
+^elemental_workshop_water_controls_left = 3
+^elemental_workshop_water_controls_right = 4
+^elemental_workshop_water_flowing = 5
+^elemental_workshop_entered = 13
+^elemental_workshop_complete = 20

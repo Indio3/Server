@@ -453,6 +453,11 @@ table=musicregion
 data=mapsquare,0_42_153_0_0
 data=name,Attack5
 
+[musicregion_42_154]
+table=musicregion
+data=mapsquare,0_42_154_0_0
+data=name,Twilight
+
 [musicregion_43_45]
 table=musicregion
 data=mapsquare,0_43_45_0_0

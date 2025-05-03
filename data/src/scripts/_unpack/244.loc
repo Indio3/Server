@@ -7,7 +7,7 @@ forcedecor=true
 sharelight=true
 model=model_154
 
-[loc_3389]
+[elemental_workshop_bookcase]
 length=2
 op1=Search
 forceapproach=east
@@ -15,19 +15,23 @@ model=model_loc_380_8
 name=Bookcase
 desc=A good source of books!
 
-[loc_3390]
+[elemental_workshop_oddwall_r]
 active=yes
 op1=Push
 model=model_loc_3209
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
+category=double_door_open_and_close_right
+param=next_loc_stage,loc_3392
 
-[loc_3391]
+[elemental_workshop_oddwall_l]
 active=yes
 op1=Push
 model=model_loc_3211
 name=Odd looking wall
 desc=A strange crack cuts into the wall.
+category=double_door_open_and_close_left
+param=next_loc_stage,loc_3393
 
 [loc_3392]
 active=yes
@@ -63,7 +67,7 @@ model=model_loc_359_8
 name=Boxes
 desc=A pile of boxes for storage.
 
-[loc_3397]
+[elemental_workshop_box_4]
 op1=Search
 model=model_loc_359_8
 name=Boxes
@@ -158,7 +162,7 @@ model=model_loc_3408_8
 name=Water wheel
 desc=It spins
 
-[loc_3409]
+[elemental_workshop_air_lever]
 op1=Pull
 model=model_loc_670_8
 name=Lever
@@ -213,7 +217,7 @@ model=model_loc_165_8
 name=Furnace
 desc=A furnace with an air blast pipe.
 
-[loc_3414]
+[elemental_workshop_trough]
 length=5
 recol1s=17833
 recol1d=10467
@@ -223,7 +227,7 @@ model=model_345
 name=Lava trough
 desc=A small trough full of lava
 
-[loc_3415]
+[elemental_workshop_spiralstairstop]
 op1=Climb-down
 forceapproach=east
 mapscene=7
@@ -233,7 +237,7 @@ model=model_loc_1741_8
 name=Staircase
 desc=I can climb down these stairs.
 
-[loc_3416]
+[elemental_workshop_spiralstairs]
 width=2
 length=2
 op1=Climb-up
@@ -242,7 +246,7 @@ model=model_loc_1738_8
 name=Staircase
 desc=I can climb up these stairs.
 
-[loc_3417]
+[elemental_workshop_lever_pulled]
 model=model_loc_669_8
 name=Lever
 desc=This lever can be operated.

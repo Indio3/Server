@@ -1,4 +1,4 @@
-[obj_2886]
+[elemental_workshop_shield_book]
 desc=A very thickley bound book.
 model=model_2794_obj
 cost=10
@@ -10,7 +10,7 @@ iop1=Read
 2dxan=276
 name=Battered book
 
-[obj_2887]
+[elemental_workshop_key]
 desc=An old battered key.
 model=model_2372_obj
 cost=1
@@ -22,7 +22,7 @@ members=true
 2dxan=344
 name=Battered key
 
-[obj_2888]
+[elemental_workshop_lava_bowl]
 desc=This is an empty stone bowl.
 model=model_2728_obj
 2dxof=1
@@ -37,7 +37,7 @@ recol2s=16705
 recol2d=9513
 name=A stone bowl
 
-[obj_2889]
+[elemental_workshop_lava_bowl_full]
 desc=This is a stone bowl full of lava.
 model=model_2728_obj
 2dxof=1
@@ -52,7 +52,7 @@ recol2s=16705
 recol2d=25893
 name=A stone bowl
 
-[obj_2890]
+[elemental_shield]
 desc=A magic shield.
 model=model_155
 iop2=Wield

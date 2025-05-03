@@ -896,6 +896,12 @@ data=name,Troubled
 data=playbutton,music:com_129
 data=unlock,5,3
 
+[music_Twilight]
+table=music
+data=name,Twilight
+data=playbutton,music:com_244_1
+data=unlock,6,19
+
 [music_Undercurrent]
 table=music
 data=name,Undercurrent

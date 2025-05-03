@@ -1,0 +1,82 @@
+[oploc1,elemental_workshop_bookcase]
+if(inv_total(inv, elemental_workshop_shield_book) > 0) {
+    mes("You search the bookcase but find nothing of interest.");
+    return;
+}
+if(inv_freespace(inv) = 0) {
+    ~objbox(elemental_workshop_shield_book, "You find a book titled 'The Elemental Shield'.|However, you don't have enough room to take it.", 250, 0, 0);
+    return;
+}
+inv_add(inv, elemental_workshop_shield_book, 1);
+~objbox(elemental_workshop_shield_book, "You find a book titled 'The Elemental Shield'.", 250, 0, 0);
+
+[oploc1,elemental_workshop_oddwall_l] @push_elemental_workshop_wall(^left);
+[oploc1,elemental_workshop_oddwall_r] @push_elemental_workshop_wall(^right);
+
+[oplocu,elemental_workshop_oddwall_l] @use_elemental_workshop_wall(^left);
+[oplocu,elemental_workshop_oddwall_r] @use_elemental_workshop_wall(^right);
+
+[label,push_elemental_workshop_wall](int $side)
+if(~check_axis_locactive(coord) = false) {
+    ~open_and_close_double_door2(~check_axis_locactive(coord), $side, coffin_open);
+    return;
+}
+sound_synth(locked, 0, 0);
+mes("You see a small hole in the wall but no way to open it.");
+
+[label,use_elemental_workshop_wall](int $side)
+if(last_useitem = elemental_workshop_key) {
+    ~open_and_close_double_door2(~check_axis_locactive(coord), $side, coffin_open);
+    return;
+}
+sound_synth(locked, 0, 0);
+mes("You can't unlock the door with that.");
+
+[oploc1,elemental_workshop_spiralstairstop]
+p_teleport(0_42_154_28_32);
+if(testbit(%elemental_workshop_bits, ^elemental_workshop_entered) = false) {
+    %elemental_workshop_bits = setbit(%elemental_workshop_bits, ^elemental_workshop_entered);
+    ~chatplayer("<p,neutral>Now to explore this area thoroughly, to find what forgotten secrets it contains.");
+}
+
+[oploc1,elemental_workshop_spiralstairs]
+p_teleport(0_42_54_21_41);
+
+[oploc1,elemental_workshop_box_4]
+if(inv_total(inv, elemental_workshop_lava_bowl) = 0) {
+    inv_add(inv, elemental_workshop_lava_bowl, 1);
+    mes("You find a stone bowl.");
+    return;
+}
+mes("It's empty.");
+
+[oploc1,elemental_workshop_air_lever]
+mes("You pull the lever.");
+mes("Nothing happens; the lever resets itself.");
+loc_change(elemental_workshop_lever_pulled, 4);
+sound_synth(lever, 0, 0);
+
+[oplocu,elemental_workshop_trough]
+if(last_useitem = elemental_workshop_lava_bowl) {
+    inv_del(inv, elemental_workshop_lava_bowl, 1);
+    inv_add(inv, elemental_workshop_lava_bowl_full, 1);
+    mes("You fill the bowl with hot lava.");
+    sound_synth(lava_bowl_fill, 0, 0);
+    return;
+}
+if(last_useitem = elemental_workshop_lava_bowl) {
+    mes("The bowl is already full of lava.");
+    return;
+}
+~displaymessage(^dm_default);
+
+[queue,elemental_workshop_quest_complete]
+//%eleme = ^zombiequeen_complete;
+stat_advance(crafting, 50000);
+stat_advance(smithing, 50000);
+session_log(^log_adventure, "Quest complete: Elemental Workshop");
+// todo: find image for proof on sizing
+~send_quest_complete(questlist:com_244_0, elemental_shield, 250, 1, "You have completed the\\nElemental Workshop Quest!");
+
+[debugproc,tew]
+queue(elemental_workshop_quest_complete, 0);
