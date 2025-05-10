@@ -111,7 +111,7 @@ model=model_loc_3402_8
 name=Workbench
 desc=Used for fashioning metal items.
 
-[loc_3403]
+[elemental_workshop_rock]
 op1=Mine
 recol1s=15854
 recol1d=12580
@@ -168,7 +168,7 @@ model=model_loc_670_8
 name=Lever
 desc=This lever can be operated.
 
-[loc_3410]
+[elemental_workshop_bellows_l]
 width=2
 length=5
 op1=Fix
@@ -180,7 +180,7 @@ model=model_loc_3410_8
 name=Bellows
 desc=Big bellows
 
-[loc_3411]
+[elemental_workshop_bellows_r]
 width=2
 length=5
 op1=Fix
@@ -202,7 +202,7 @@ recol2s=15855
 recol2d=5250
 model=model_loc_3412_8
 
-[loc_3413]
+[elemental_workshop_furnace]
 width=3
 length=3
 recol1s=5285

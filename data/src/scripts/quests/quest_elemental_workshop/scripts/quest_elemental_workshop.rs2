@@ -71,7 +71,7 @@ if(last_useitem = elemental_workshop_lava_bowl) {
 ~displaymessage(^dm_default);
 
 [queue,elemental_workshop_quest_complete]
-//%eleme = ^zombiequeen_complete;
+%elemental_workshop_bits = setbit(%elemental_workshop_bits, ^elemental_workshop_complete);
 stat_advance(crafting, 50000);
 stat_advance(smithing, 50000);
 session_log(^log_adventure, "Quest complete: Elemental Workshop");
